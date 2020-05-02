@@ -6,7 +6,7 @@ url: "https://ankiitgupta7.github.io"
 title: Website Under Construction!                                    # site's title
 description: "Please be patient."      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+favicon: assets/Icons8-Windows-8-Cinema-Avengers.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
