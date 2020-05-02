@@ -3,8 +3,8 @@ baseurl: "/"
 url: "https://ankiitgupta7.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Hello Humans!                                    # site's title
-description: "I am coming soon"      # used by search engines
+title: Website Under Construction!                                    # site's title
+description: "Please be patient."      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
