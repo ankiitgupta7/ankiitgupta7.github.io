@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Gallery
-subtitle: My Memoirs
+title: Memoirs
+subtitle: of places I have been to.
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
-tags: [Gallery, Photo]
+tags: [Photo, Memoirs]
 ---
 
 These pictures are somehow associated with me.
