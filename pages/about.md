@@ -5,10 +5,13 @@ permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
+I am a Senior Year Engineering Undergrad at Indian Institute of Technology, Kharagpur [IIT KGP], India.
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+I find myself as a "Budding" Enthusiast in Biologically Inspired Cognitive Architectures, Computational Cognitive Neurosciences.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+A few semesters ago, I opted for the “General Psychology” course at my university as one of the compulsory humanities courses as I now feel, I had some subliminal liking for this thing but never really got an opportunity to explore. And it all started from there. I was overwhelmed as I went through the course since I felt it had the answer to all my curiosities since childhood. I took a few more courses available at my university relevant to this, namely “Psychology of Learning” and more importantly “Cognitive Information Processing”. And the latter made me more focused around the brain and neuroscience.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Last summer I wrote a project proposal for INCF at Google Summer of Code. While working on the prototype of the idea, and later on continuing to implement the idea, I have also developed a deep interest in Cybernetics / Intelligent Nervous Systems.
+
+Thanks for your time on my page. 
  
