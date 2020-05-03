@@ -2,7 +2,7 @@
 layout: post
 title: Your First Year in IIT Kharagpur
 tags: [IIT, KGP, Fachcha]
-feature-img: assets/img/pexels/KGP.jpeg
+thumbnail: assets/img/pexels/KGP.jpeg
 color: brown
 author: ankiitgupta7
 ---
