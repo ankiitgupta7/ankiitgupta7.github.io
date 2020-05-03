@@ -1,10 +1,11 @@
 --- 
 layout: page
-title : Portfolio 
+title : Projects 
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
+subtitle: "From Past and Ongoing" 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Work Details]
 ---
+This section would be updated very soon.
 
 {% include portfolio.html %}
