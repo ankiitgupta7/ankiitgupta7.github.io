@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Archive]
+tags: [About, Work, Interest, Tools]
 ---
 I am a Senior Year Engineering Undergrad at Indian Institute of Technology, Kharagpur [IIT KGP], India.
 

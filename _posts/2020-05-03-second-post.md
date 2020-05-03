@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Validation Purchase
-tags: [Validation, Psychology, College]
+tags: [Validation, Psychology, College, Human Motivation]
 color: brown
 author: ankiitgupta7
 thumbnail: assets/img/posts/second.jpg
