@@ -2,8 +2,7 @@
 layout: post
 title: Your First Year in IIT Kharagpur
 tags: [IIT, KGP, Bandi, DC++]
-feature-img: "assets/img/sample.png"
-excerpt_separator: This is the place, “The Main Building” from where your journey starts with freshers’ welcome in Netaji Auditorium where you are assigned a new tag other than being IITian, yes I am talking about being KGPian. At moments during the presentations, you feel like being a shooting star, out on the verge of the rest of your life. Now comes the series of nights when society people leave no stone unturned to woo the freshers to get in their Introductory Seminar, giving them a variety of reasons to come.
+excerpt_separator: <!--more-->
 ---
 
 **Freshers’ Welcome**
