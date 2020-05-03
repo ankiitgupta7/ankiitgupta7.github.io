@@ -3,7 +3,7 @@ layout: page
 title: Memoirs
 subtitle: of places I have been to.
 permalink: /gallery/
-gallery_path: "assets/img/pexels"
+gallery_path: "assets/img/gallery"
 tags: [Photo, Memoirs]
 ---
 
