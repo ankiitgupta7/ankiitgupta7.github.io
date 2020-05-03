@@ -4,7 +4,6 @@ title: Your First Year in IIT Kharagpur
 tags: [IIT, KGP, Fachcha]
 color: brown
 author: ankiitgupta7
-excerpt_separator: <!--more-->
 ---
 
 # Freshers’ Welcome
