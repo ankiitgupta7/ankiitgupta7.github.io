@@ -4,7 +4,7 @@ title: Validation Purchase
 tags: [Validation, Psychology, College]
 color: brown
 author: ankiitgupta7
-thumbnail: assets/img/posts/rumi.jgp
+thumbnail: assets/img/posts/rumi.jpg
 ---
 
 After you got accepted into IISc/IIT, you might have drawn validation from society or even yourself but does that validation (already purchased) still satisfy you while living on campus. Ask yourself what is driving you now and why?
