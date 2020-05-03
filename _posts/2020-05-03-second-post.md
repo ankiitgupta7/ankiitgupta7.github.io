@@ -5,7 +5,6 @@ tags: [Validation, Psychology, College]
 color: brown
 author: ankiitgupta7
 image: assets/img/posts/Maslow.png
-excerpt_separator: <!--more-->
 ---
 
 After you got accepted into IISc/IIT, you might have drawn validation from society or even yourself but does that validation (already purchased) still satisfy you while living on campus. Ask yourself what is driving you now and why?
@@ -36,4 +35,4 @@ References
 
 -   Maslow, A. H. (1943). A theory of human motivation. Psychological Review, 50(4), 370–396. [https://doi.org/10.1037/h0054346](https://doi.org/10.1037/h0054346)
     
--   https://en.wikipedia.org/wiki/Abraham_Maslow
+-  [https://en.wikipedia.org/wiki/Abraham_Maslow](https://en.wikipedia.org/wiki/Abraham_Maslow)
