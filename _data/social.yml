@@ -19,7 +19,7 @@ soundcloud:
 stack_overflow:
 stack_exchange:   # Full URL
 steam:
-tumblr: "ankiitgupta7"
+tumblr: 
 
 vimeo:
 youtube: UCmKKhy3r0t6v_L8_JpyCtaQ      # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
@@ -37,5 +37,5 @@ share:
   pocket:
   reddit: true
   linkedin: true
-  wordpress: true
+  wordpress:
   email: true

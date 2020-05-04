@@ -2,7 +2,7 @@
 layout: page
 title : Projects 
 permalink: /portfolio/
-subtitle: "From Past and Ongoing" 
+subtitle: "Ongoing and Previous Ones" 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Work Details]
 ---

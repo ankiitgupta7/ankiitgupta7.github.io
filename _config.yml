@@ -4,9 +4,9 @@ url: "https://ankiitgupta7.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Hello Humans, Welcome to my page!                                   # site's title
-description: "IIT, ankiitgupta7, IITian, KGP"      # used by search engines
-avatar: assets/img/triangle.png                        # Empty for no avatar in navbar
-favicon: assets/Icons8-Windows-8-Cinema-Avengers.ico                             # Icon displayed in the tab
+description: "ankiitgupta7, IITian, KGPian, AZADian"      # used by search engines
+avatar: assets/Icons8-Windows-8-Cinema-Avengers.ico                      # Empty for no avatar in navbar
+favicon: assets/img/triangle.png                            # Icon displayed in the tab
 
 # Header and footer text
 header_text: Ankit Gupta  # Change Blog header text

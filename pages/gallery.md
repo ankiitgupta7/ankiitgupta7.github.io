@@ -7,7 +7,7 @@ gallery_path: "assets/img/gallery"
 tags: [Photo, Memoirs]
 ---
 
-These pictures are somehow associated with me.
+The following pictures are somehow associated with me.
 
 
 {% include gallery.html gallery_path=page.gallery_path %}
