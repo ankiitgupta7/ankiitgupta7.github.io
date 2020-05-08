@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Memoirs
-subtitle: of places I have been to.
+subtitle: of places and people I have been to.
 permalink: /gallery/
 gallery_path: "assets/img/gallery"
 tags: [Photo, Memoirs]
