@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-feature-img: "assets/img/pexels/azad.jpg"
+feature-img: "assets/img/pexels/wall1.jpg"
 tags: [About, Work, Interests, Tools]
 ---
 [**CV**](https://drive.google.com/file/d/15wUozfAyUZHOXf_8XE75sXlGmZAERLuk/view?usp=sharing)    |   [**Google Scholar**](https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en)  |   [**ResearchGate**](https://www.researchgate.net/profile/Ankit_Gupta93)  |   [**LinkedIn**](https://www.linkedin.com/in/ankiitgupta7/)   |   [**GitHub**](https://github.com/ankiitgupta7)   |   [**Medium**](https://medium.com/@ankiitgupta7)  |   [**WordPress**](https://ankiitgupta7.wordpress.com/)    |   [**Quora**](https://www.quora.com/profile/Ankit-Gupta-1695) |
