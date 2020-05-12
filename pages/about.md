@@ -5,6 +5,10 @@ permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Work, Interests, Tools]
 ---
+
+<div style={width:10px}> 
+    Imah djfb 
+</div>
 I am a Senior Year Engineering Undergrad at Indian Institute of Technology, Kharagpur [IIT KGP], India.
 
 I see myself as a "Budding" Enthusiast in Biologically Inspired Cognitive Architectures, Computational Cognitive Neurosciences, Bio-inspired Robot Collectives, Cybernetics, Intelligent Nervous Systems Design, & Behavioural Cognitive Psychology. The construct of consciousness in living beings and attempts to synthesize it in non-living beings fascinate me. Thus, I remain interested in both biologically as well as artificially intelligent systems.
