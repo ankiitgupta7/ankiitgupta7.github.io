@@ -11,7 +11,7 @@ tags: [About, Work, Interests, Tools]
 [**Medium**](https://medium.com/@ankiitgupta7)   |
 [**WordPress**](https://ankiitgupta7.wordpress.com/)   |
 [**Quora**](https://www.quora.com/profile/Ankit-Gupta-1695)   |
-[**CV**](https://drive.google.com/file/d/15wUozfAyUZHOXf_8XE75sXlGmZAERLuk/view?usp=sharing)
+[**CV**](https://drive.google.com/file/d/15wUozfAyUZHOXf_8XE75sXlGmZAERLuk/view?usp=sharing)    |
 
 
 
