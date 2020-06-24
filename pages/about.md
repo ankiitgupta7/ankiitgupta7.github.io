@@ -14,7 +14,7 @@ tags: [About, Work, Interests, Tools]
 I am a Senior Year Engineering Undergrad at Indian Institute of Technology, Kharagpur [IIT KGP], India.
 
 
-I see myself as a "Budding" Enthusiast in Biologically Inspired Cognitive Architectures, Computational Cognitive Neurosciences, Bio-inspired Robot Collectives, Cybernetics, Intelligent Nervous Systems Design, & Behavioural Cognitive Psychology. The construct of consciousness in living beings and attempts to synthesize it in non-living beings fascinate me. Thus, I remain interested in both biologically as well as artificially intelligent systems.
+I see myself as a budding enthusiast in Biologically Inspired Cognitive Architectures, Computational Cognitive Neurosciences, Bio-inspired Robot Collectives, Cybernetics, Intelligent Nervous Systems Design, & Behavioural Cognitive Psychology. The construct of consciousness in living beings and attempts to synthesize it in non-living beings fascinate me. Thus, I remain interested in both biologically as well as artificially intelligent systems.
 
 
 I have used Agent-Based Simulations, Computation Modelling, & Various Experiment Design Paradigms in the works I have been associated with in the past. I am currently working on Developmental Neurosimulation using Braitentenberg Vehicles and Analysing EEG Data at one of our university lab.
