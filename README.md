@@ -1,4 +1,4 @@
-# Type on Strap 
+# This repo is forked from Type on Strap, an Open Source Template for websites
 
 [![Build Status](https://travis-ci.org/sylhare/Type-on-Strap.svg?branch=master)](https://travis-ci.org/sylhare/Type-on-Strap)
 [![Gem Version](https://badge.fury.io/rb/type-on-strap.svg)](https://badge.fury.io/rb/type-on-strap)
