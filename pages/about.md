@@ -15,10 +15,9 @@ tags: [About, Work, Interests, Tools]
 I am a Senior Year Engineering Undergrad at Indian Institute of Technology, Kharagpur <a href="http://www.iitkgp.ac.in/" target="_blank">[IIT KGP]</a>, India.
 
 
-I have been interested in Biologically Inspired Cognitive Architectures, Computational Cognitive Neurosciences, Bio-inspired Robot Collectives, Cybernetics, Intelligent Nervous Systems Design, & Behavioural Cognitive Psychology. The construct of consciousness in living beings and attempts to synthesize it in non-living beings fascinate me. Thus, I remain interested in both biologically as well as artificially intelligent systems. My core expertise, I believe, is to convert ideas into code and I am passionate about using this in things that I am curious about.
+I have been interested in Biologically Inspired Cognitive Architectures, Computational Cognitive Neurosciences, Bio-inspired Robot Collectives, Cybernetics, Intelligent Nervous Systems Design, & Behavioural Cognitive Psychology. The construct of consciousness in living beings and attempts to synthesize it in non-living beings fascinate me. Thus, I remain interested in both biologically as well as artificially intelligent systems. 
 
-
-I have used Agent-Based Simulations, Computation Modelling, & Various Experiment Design Paradigms. I am currently working on Agent-Based simulations exploring evolutionary origins of human reciprocity, at a research lab at Harvard.
+I absolutely love converting ideas into code and passionate to apply the same in areas I am interested in. In the past, I have used Agent-Based Simulations, Computation Modelling, & Various Experiment Design Paradigms. I am currently working on Agent-Based simulations exploring evolutionary origins of human reciprocity, at a research lab at Harvard.
 
 A few semesters ago, I opted for the “General Psychology” course at my university as one of the compulsory humanities courses as I now feel, I had some subliminal liking for this thing but never really got an opportunity to explore. And it all started from there. I was overwhelmed as I went through the course since I felt it had the answer to all my curiosities since childhood. I took a few more courses available at my university relevant to this, namely “Psychology of Learning” and more importantly “Cognitive Information Processing”. And the latter made me more focused around the brain and neuroscience.
 
