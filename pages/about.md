@@ -9,28 +9,23 @@ tags: [About, Work, Interests, Tools]
 
 <a href="https://drive.google.com/file/d/15wUozfAyUZHOXf_8XE75sXlGmZAERLuk/view?usp=sharing" target="_blank"><b>CV</b></a>    |   <a href="https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en" target="_blank"><b>Google Scholar</b></a>  |   <a href="https://www.researchgate.net/profile/Ankit_Gupta93" target="_blank"><b>ResearchGate</b></a>  |   <a href="https://www.linkedin.com/in/ankiitgupta7/" target="_blank"><b>LinkedIn</b></a>  |   <a href="https://github.com/ankiitgupta7" target="_blank"><b>GitHub</b></a>  |   <a href="https://medium.com/@ankiitgupta7" target="_blank"><b>Medium</b></a>  |   <a href="https://ankiitgupta7.wordpress.com/" target="_blank"><b>WordPress</b></a>  | <a href="https://www.quora.com/profile/Ankit-Gupta-1695" target="_blank"><b>Quora</b></a>  |  
 
-.             |  .
-:-------------------------:|:-------------------------:
 ![](https://avatars3.githubusercontent.com/u/25341569?s=460&u=295da8eee2df232778c0b6c18fef0828a2137e01&v=4)  |  ![](https://github.com/ankiitgupta7/ankiitgupta7.github.io/blob/master/assets/img/onsite/affiliations.png?raw=true)
-Myself             |  Affiliations
+:-------------------------:|:-------------------------:
+
+Me at India Gate, New Delhi             |  My Affiliations until now!
 
 <head>
     <style>
       body {
         text-align: center;
       }
-      img {
-        object-fit: cover;
-      }
     </style>
   </head>
   <body>
-  </body>
-
-I am a Senior Year Engineering Undergrad at Indian Institute of Technology, Kharagpur <a href="http://www.iitkgp.ac.in/" target="_blank">[IIT KGP]</a>, India.
+  I am a Senior Year Engineering Undergrad at Indian Institute of Technology, Kharagpur <a href="http://www.iitkgp.ac.in/" target="_blank">[IIT KGP]</a>, India.
 
 
-I have been interested in Biologically Inspired Cognitive Architectures, Computational Cognitive Neurosciences, Bio-inspired Robot Collectives, Cybernetics, Intelligent Nervous Systems Design, & Behavioural Cognitive Psychology. The construct of consciousness in living beings and attempts to synthesize it in non-living beings fascinate me. Thus, I remain interested in both biologically as well as artificially intelligent systems. 
+I have been interested in Biologically Inspired Cognitive Architectures, Bio-inspired Robot Collectives, Computational Cognitive Neurosciences, Cybernetics, Intelligent Nervous Systems Design, & Behavioural Cognitive Psychology. The construct of consciousness in living beings and attempts to synthesize it in non-living beings fascinate me. Thus, I remain interested in both naturally existing (biological) as well as artificially intelligent systems. 
 
 I absolutely love converting ideas into code and passionate to apply the same in areas I am interested in. In the past, I have used Agent-Based Simulations, Computation Modelling, & Various Experiment Design Paradigms. I am currently working on Agent-Based simulations exploring evolutionary origins of human reciprocity, at a research lab at Harvard.
 
@@ -38,5 +33,8 @@ A few semesters ago, I opted for the “General Psychology” course at my unive
 
 Since last year I have been working remotely with of a research group named [Orthogonal Research and Education Laboratory](https://orthogonal-research.weebly.com/) at Champaign-Urbana, IL, USA. While working on this group, I have developed a deep interest in Cybernetics / Intelligent Nervous Systems. Here's the [link](https://arxiv.org/abs/2003.07689) to the ArXiv preprint of paper, we published recently.
 
-Thanks for your time on my page. 
+Thanks for your time on my page.
+  </body>
+
+ 
  
