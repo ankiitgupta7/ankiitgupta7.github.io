@@ -9,10 +9,9 @@ tags: [About, Work, Interests, Tools]
 
 <a href="https://drive.google.com/file/d/15wUozfAyUZHOXf_8XE75sXlGmZAERLuk/view?usp=sharing" target="_blank"><b>CV</b></a>    |   <a href="https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en" target="_blank"><b>Google Scholar</b></a>  |   <a href="https://www.researchgate.net/profile/Ankit_Gupta93" target="_blank"><b>ResearchGate</b></a>  |   <a href="https://www.linkedin.com/in/ankiitgupta7/" target="_blank"><b>LinkedIn</b></a>  |   <a href="https://github.com/ankiitgupta7" target="_blank"><b>GitHub</b></a>  |   <a href="https://medium.com/@ankiitgupta7" target="_blank"><b>Medium</b></a>  |   <a href="https://ankiitgupta7.wordpress.com/" target="_blank"><b>WordPress</b></a>  | <a href="https://www.quora.com/profile/Ankit-Gupta-1695" target="_blank"><b>Quora</b></a>  |  
 
-
-
-![Myself](https://avatars3.githubusercontent.com/u/25341569?s=460&u=295da8eee2df232778c0b6c18fef0828a2137e01&v=4 "Myself")
-![Affiliations](https://github.com/ankiitgupta7/ankiitgupta7.github.io/blob/master/assets/img/onsite/affiliations.png?raw=true "Affiliations")
+Myself             |  Affiliations
+:-------------------------:|:-------------------------:
+![](https://avatars3.githubusercontent.com/u/25341569?s=460&u=295da8eee2df232778c0b6c18fef0828a2137e01&v=4)  |  ![](https://github.com/ankiitgupta7/ankiitgupta7.github.io/blob/master/assets/img/onsite/affiliations.png?raw=true)
 
 <head>
     <style>
@@ -20,8 +19,6 @@ tags: [About, Work, Interests, Tools]
         text-align: center;
       }
       img {
-        width: 400px;
-        height: 200px;
         object-fit: cover;
       }
     </style>
