@@ -11,8 +11,24 @@ tags: [About, Work, Interests, Tools]
 
 
 
-![Myself](https://avatars3.githubusercontent.com/u/25341569?s=460&u=295da8eee2df232778c0b6c18fef0828a2137e01&v=4)
-![Affiliations](https://github.com/ankiitgupta7/ankiitgupta7.github.io/blob/master/assets/img/onsite/affiliations.png?raw=true)
+![Myself](https://avatars3.githubusercontent.com/u/25341569?s=460&u=295da8eee2df232778c0b6c18fef0828a2137e01&v=4 "Myself")
+![Affiliations](https://github.com/ankiitgupta7/ankiitgupta7.github.io/blob/master/assets/img/onsite/affiliations.png?raw=true "Affiliations")
+
+<head>
+    <style>
+      body {
+        text-align: center;
+      }
+      img {
+        width: 400px;
+        height: 200px;
+        object-fit: cover;
+      }
+    </style>
+  </head>
+  <body>
+  </body>
+
 I am a Senior Year Engineering Undergrad at Indian Institute of Technology, Kharagpur <a href="http://www.iitkgp.ac.in/" target="_blank">[IIT KGP]</a>, India.
 
 
