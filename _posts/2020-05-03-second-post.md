@@ -6,8 +6,9 @@ color: brown
 author: ankiitgupta7
 thumbnail: assets/img/posts/second.jpg
 ---
+*This is an article that talks about how the psychology of univeristy students works in general and what drives them after they enter some elite institution e.g. IITs, IISc, etc. in case of India.*
 
-After you got accepted into IISc/IIT, you might have drawn validation from society or even yourself but does that validation (already purchased) still satisfy you while living on campus. Ask yourself what is driving you now and why?
+After you got accepted into the college of your (or your society's) dreams, you might have drawn validation from society or even yourself but does that validation (already purchased) still satisfy you while living on campus. Ask yourself what is driving you now and why?
 
   
 

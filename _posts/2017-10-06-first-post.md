@@ -6,6 +6,7 @@ thumbnail: assets/img/mygallery/KGP.jpeg
 color: brown
 author: ankiitgupta7
 ---
+*This is an article that talks about the happenings and behavioral changes that occurs to a fresher as the time passes in their first year at IIT KGP. And this article mostly concerns the UG population of KGP which are majority here.*
 
 # Freshers’ Welcome
 
@@ -71,4 +72,4 @@ The year finally ends with these two major events mainly associated with your ha
 
 Now if you remember yourself before coming to this place, you realize your transformation in every dimension of your life. The memories that you make in this first year you’ll remember for the lifetime and always cherish it.
 
-
+*This article was originally published on my medium page and can be found [here](https://medium.com/@ankiitgupta7/your-first-year-in-iit-kharagpur-c262651279fb) too.*
