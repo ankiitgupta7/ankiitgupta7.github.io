@@ -7,13 +7,13 @@ tags: [John Conway, Game of Life, Cellular Automata]
 ---
 
 <head> 
-        <title>CSS center property</title> 
-        <style> 
-            body { 
-                text-align:center; 
-            } 
-        </style> 
-    </head> 
+     <style> 
+        body { 
+            text-align:center; 
+        } 
+    </style> 
+</head> 
+
 Please click on <a href="https://editor.p5js.org/ankiitgupta7/present/nlLG9YMpr" target="_blank">this link</a> to view the simulation.
 
 ![image]({{ page.img | relative_url }})
