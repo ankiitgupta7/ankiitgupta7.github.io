@@ -64,7 +64,7 @@ The beauty of KGP is that here we celebrate the ever existing festivals in a uni
 Hall day is also one of the most sought-after time every year and for a fresher, it’s totally a new concept. Perhaps introduced to enhance the inter-hall (particularly male-female) interactions among students, the objective is hardly met given the male-female ratio at this place.
 
 # Elections and General Championship Results
-![alt text](https://qph.fs.quoracdn.net/main-qimg-759bb43c719be5e99d81f60fa78960ef-c)**
+![alt text](https://qph.fs.quoracdn.net/main-qimg-759bb43c719be5e99d81f60fa78960ef-c)
 
 The year finally ends with these two major events mainly associated with your hall tempo. For many of us, this is perhaps the first opportunity to vote. Many of the freshers participate actively in these as you see largescale campaigning with the candidate during hall days or change of display pictures on Facebook with the candidate standing in the election. The negative conception about typical college elections changes, given the well-organized election system we have at this place.
 
