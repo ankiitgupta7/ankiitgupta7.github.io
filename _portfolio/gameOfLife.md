@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Game of Life
+title: Conway's Game of Life
 img: "assets/img/portfolio/knot_life.gif"
 date: 18-07-2020
 tags: [John Conway, Game of Life, Cellular Automata]
