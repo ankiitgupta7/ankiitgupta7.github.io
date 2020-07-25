@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The Essay for FQXi
-img: "assets/img/portfolio/fqxi.jpg"
+feature-img: "assets/img/portfolio/fqxi.jpg"
 date: 16-03-2020
 tags: [Undecidability; Uncomputability; and Unpredictability, Foundational Questions]
 ---    
 ## The illusion of structure or insufficiency of approach? the un(3) of unruly problems
-### Co-Authors: Bradly Alicea, Jesse Parent
+#### Co-Authors: Bradly Alicea, Jesse Parent
 ![image]({{ page.img | relative_url }})
 
 ## Abstract

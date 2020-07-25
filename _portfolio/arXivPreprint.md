@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The arXiv Preprint
-img: "assets/img/portfolio/moving_2a.gif"
+feature-img: "assets/img/portfolio/moving_2a.gif"
 date: 28-02-2020
 tags: [Braitenberg Vehicles, Neurons and Cognition, Collective Intelligence, Neurosimulation]
 ---    
 ## Braitenberg Vehicles as Developmental Neurosimulation
-### Co-Authors: Stefan Dvoretskii, Ziyi Gong, Jesse Parent, & Bradly Alicea
+#### Co-Authors: Stefan Dvoretskii, Ziyi Gong, Jesse Parent, & Bradly Alicea
 ![image]({{ page.img | relative_url }})
 
 ## Abstract

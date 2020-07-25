@@ -6,7 +6,7 @@ date: 13-07-2020
 tags: [Artificial Life, Conference Talk, Developmental Neural Networks]
 ---    
 ## Developmental Embodied Agents as Meta-brain Models
-### Co-Authors: Bradly Alicea, Stefan Dvoretskii, Sam Felder, Ziyi Gong, and Jesse Parent
+#### Co-Authors: Bradly Alicea, Stefan Dvoretskii, Sam Felder, Ziyi Gong, and Jesse Parent
 ![image]({{ page.img | relative_url }})
 
 ## Abstract

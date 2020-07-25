@@ -6,7 +6,7 @@ date: 20-03-2020
 tags: [Braitenberg Vehicles, Conference Talk, Developmental Neural Networks]
 ---    
 ## Developmental Braitenberg Vehicles
-### Co-Authors: Bradly Alicea, Stefan Dvoretskii, Ziyi Gong, and Jesse Parent
+#### Co-Authors: Bradly Alicea, Stefan Dvoretskii, Ziyi Gong, and Jesse Parent
 ![image]({{ page.img | relative_url }})
 
 ## Abstract
