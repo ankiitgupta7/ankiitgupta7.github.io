@@ -1,11 +1,11 @@
 --- 
 layout: page
-title : Projects 
+title : Portfolio 
 permalink: /portfolio/
-subtitle: "Ongoing and Previous Ones" 
+subtitle: "Simulations | Conferences | Publications | Projects" 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Work Details]
 ---
-This section would be updated very soon.
+This section is not fully updated. Do visit again sometime soon!
 
 {% include portfolio.html %}

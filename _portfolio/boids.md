@@ -3,7 +3,7 @@ layout: post
 title: Boids
 img: "assets/img/onsite/boids.jpg"
 date: 18-07-2020
-tags: [Boids, Swarm, Emerging Intelligence]
+tags: [Boids, Swarm, Emergent Behaviour]
 ---
 
 <head> 
