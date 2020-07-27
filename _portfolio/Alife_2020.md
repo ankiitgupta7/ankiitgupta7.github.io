@@ -1,6 +1,6 @@
 ---
 layout: post
-title: At Artficial Life (ALife) 2020 Conference
+title: At Artficial Life (ALife) Conference 2020
 img: "assets/img/portfolio/alife_2020.png"
 feature-img: "assets/img/portfolio/alife_2020.png"
 date: 13-07-2020
