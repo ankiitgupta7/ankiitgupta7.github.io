@@ -10,6 +10,6 @@ I come from rural India, born and brought up in Jaunpur district of Uttar Prades
 
 I am a below average player of Badminton, Tennis but a relatively better swimmer. I've been always a passionate writer, usually writing blogs on variety of topics but recently more inclined to poetry after writing my first poetry piece. I love deep philosophical discussions on anything related to how human beings and the universe work and interact. I am a regular follower of Tennis, Badminton and Cricket. And talking about my idols, I take inspiration from Sundar Pichai [Google CEO / IIT KGP Alumni], Abhijit Banerjee [Indian-American Nobel Laurete] and Rafael Nadal [Tennis Player]!
 
-Here are some pictures, that are somehow associated with me.
+Here are some pictures, that explain above.
 
 {% include gallery.html gallery_path=page.gallery_path %}
