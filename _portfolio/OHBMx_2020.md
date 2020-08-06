@@ -1,8 +1,8 @@
 ---
 layout: post
 title: At OHBM Equinox Brain Twitter Conference 2020
-img: "assets/img/portfolio/OHBMx2020.png"
-feature-img: "assets/img/portfolio/OHBMx2020.png"
+img: "assets/img/portfolio/OHBM.jpg"
+feature-img: "assets/img/portfolio/OHBM.jpg"
 date: 20-03-2020
 tags: [Braitenberg Vehicles, Conference Talk, Developmental Neural Networks]
 ---    

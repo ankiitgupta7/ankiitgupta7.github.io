@@ -2,9 +2,10 @@
 layout: page
 title: Memoirs
 subtitle: of places and people I have been to.
+feature-img: "assets/img/onsite/taipei.jpeg"
 permalink: /gallery/
 gallery_path: "assets/img/mygallery"
-tags: [Photo, Memoirs]
+tags: [Photos, Memoirs]
 ---
 I come from rural India, born and brought up in Jaunpur district of Uttar Pradesh. And then moved to Calcutta during my high school to prepare better for the IIT-JEE exam. For me, libraries are the favourite places to be, while being anywhere in the world. Solo evenings at beaches/riverbanks are also desirable. Once forced into cooking in some dire circumstances, I have learned to make some of usual Indian food with minimal raw material supply.
 
