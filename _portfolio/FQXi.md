@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Essay for FQXi
+title: The Essay for FQXi Contest
 feature-img: "assets/img/portfolio/fqxi.jpg"
 img: "assets/img/portfolio/fqxi.png"
 date: 16-03-2020
