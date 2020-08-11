@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Boids
-img: "assets/img/onsite/boids.jpg"
+title: "Simulation: Boids [Bird Flocking Algorithm]"
+img: "assets/img/portfolio/flocks.jpg"
 date: 18-07-2020
 tags: [Boids, Swarm, Emergent Behaviour]
 ---
