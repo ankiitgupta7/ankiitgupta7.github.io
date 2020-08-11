@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conway's Game of Life
+title: "Simulation: Conway's Game of Life"
 img: "assets/img/portfolio/game_of_life.jpg"
 date: 18-07-2020
 tags: [John Conway, Game of Life, Cellular Automata]
