@@ -2,7 +2,7 @@
 layout: post
 title: The Essay for FQXi
 feature-img: "assets/img/portfolio/fqxi.jpg"
-img: "assets/img/portfolio/fqxi.jpg"
+img: "assets/img/portfolio/fqxi.png"
 date: 16-03-2020
 tags: [Undecidability; Uncomputability; and Unpredictability, Foundational Questions]
 ---    

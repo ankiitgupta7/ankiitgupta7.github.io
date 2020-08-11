@@ -2,7 +2,7 @@
 layout: post
 title: The arXiv Preprint
 feature-img: "assets/img/portfolio/moving_2a.gif"
-img: "assets/img/portfolio/moving_2a.gif"
+img: "assets/img/portfolio/BV.png"
 date: 28-02-2020
 tags: [Braitenberg Vehicles, Neurons and Cognition, Collective Intelligence, Neurosimulation]
 ---    
