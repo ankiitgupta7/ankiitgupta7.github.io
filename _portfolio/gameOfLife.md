@@ -14,6 +14,6 @@ tags: [John Conway, Game of Life, Cellular Automata]
     </style> 
 </head> 
 
-Please click on <a href="https://editor.p5js.org/ankiitgupta7/present/nlLG9YMpr" target="_blank">this link</a> to view the simulation.
+Please click on <a href="https://ankiitgupta7.github.io/My-Cellular-Automaton/" target="_blank">this link</a> to view the simulation.
 
 ![image]({{ page.img | relative_url }})
