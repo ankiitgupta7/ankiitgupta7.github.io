@@ -6,15 +6,7 @@ date: 18-07-2020
 tags: [Boids, Swarm, Emergent Behaviour]
 ---
 
-<head> 
-        <style> 
-            body { 
-                text-align:center; 
-            } 
-        </style> 
-    </head> 
-
-Please click on | <a href="https://editor.p5js.org/ankiitgupta7/present/8mCpA5rjp" target="_blank"><b>this link</b></a>  | to view the simulation.
+->Please click on <a href="https://editor.p5js.org/ankiitgupta7/present/8mCpA5rjp" target="_blank"><b>| this link |</b></a> to view the simulation.<-
 
 ![image]({{ page.img | relative_url }})
 
@@ -22,4 +14,4 @@ According to Wikipedia, Boids is an artificial life program, developed by Craig 
 
 To know about Boids, you may follow this <a href= "https://en.wikipedia.org/wiki/Boids" target="_blank"> link </a>.
 
-*The code for this simulation is taken from one of the open source projects from p5.js with an aim to further customize and develop the existing simulation. The above link takes you to the already developed or the simulation under development.*
+*The code for this simulation is taken from one of the open source projects from p5.js with an aim to further customize and develop the existing simulation. The link at the top takes you to the already developed or the simulation under development.*
