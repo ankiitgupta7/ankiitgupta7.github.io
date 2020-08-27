@@ -6,7 +6,7 @@ date: 18-07-2020
 tags: [Boids, Swarm, Emergent Behaviour]
 ---
 
-->Please click on <a href="https://editor.p5js.org/ankiitgupta7/present/8mCpA5rjp" target="_blank"><b>| this link |</b></a> to view the simulation.<-
+Please click on <a href="https://editor.p5js.org/ankiitgupta7/present/8mCpA5rjp" target="_blank"><b>| this link |</b></a> to view the simulation.
 
 ![image]({{ page.img | relative_url }})
 
