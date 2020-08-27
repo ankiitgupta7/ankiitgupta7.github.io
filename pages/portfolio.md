@@ -6,6 +6,6 @@ subtitle: "Simulations | Conferences | Publications | Projects"
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Work Details]
 ---
-This section is not yet fully updated. Do visit again sometime soon!
+Please hover over the images to discover it's content and click on them to view. It may either be about a publication / conference / a simulation / some project.
 
 {% include portfolio.html %}
