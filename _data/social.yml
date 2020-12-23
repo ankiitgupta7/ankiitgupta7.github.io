@@ -8,7 +8,7 @@ github: "ankiitgupta7"
 linkedin: https://www.linkedin.com/in/ankiitgupta7/         # Full URL
 twitter: "ankiitgupta7"          # "twitter username"
 wordpress: "ankiitgupta7"
-instagram: "ankiitkgp21"
+instagram:
 facebook: "ankiitgupta7"
 # google-scholar: "citations?user=FTCbGjoAAAAJ&hl=en"
 gitlab:
@@ -23,7 +23,7 @@ steam:
 tumblr: 
 
 medium: "@ankiitgupta7"
-youtube: UCmKKhy3r0t6v_L8_JpyCtaQ      # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
 
 # rss specify feed path
 feed:
