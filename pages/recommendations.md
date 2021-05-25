@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
+title: Recommendations
+permalink: /recommendations/
 feature-img: "assets/img/onsite/forAbout.jpg"
-tags: [About, Work, Interests, Tools]
+tags: [recommendations, Interests, Tools]
 ---
 
 <head> 
