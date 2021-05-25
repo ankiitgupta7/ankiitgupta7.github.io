@@ -38,6 +38,4 @@ My curiousity has lead me to explore many questions / concepts / phenomenon that
 
 Some YouTube channels that I recommend which foster my curiousity are,
 
-[Lex Fridman](https://www.youtube.com/user/lexfridman)  |   [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) |   [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)   |   [Vsauce](https://www.youtube.com/user/Vsauce)   |   [Veritasium](https://www.youtube.com/user/1veritasium)  |   [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart)  |   [Ted-Ed](https://www.youtube.com/user/TEDEducation)   |   [Numberphile](https://www.youtube.com/user/numberphile) |   [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA)    |   [Closer to Truth](https://www.youtube.com/user/CloserToTruth1)
-\
-\
+[Lex Fridman](https://www.youtube.com/user/lexfridman)  |   [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) |   [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)   |   [Vsauce](https://www.youtube.com/user/Vsauce)   |   [Veritasium](https://www.youtube.com/user/1veritasium)  |   [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart)  |   [Ted-Ed](https://www.youtube.com/user/TEDEducation)   |   [Numberphile](https://www.youtube.com/user/numberphile) |   [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA)    |   [Closer to Truth](https://www.youtube.com/user/CloserToTruth1)    |
