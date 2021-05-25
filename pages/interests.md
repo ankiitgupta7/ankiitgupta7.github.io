@@ -7,7 +7,7 @@ feature-img: "assets/img/onsite/forInterests.jpg"
 tags: [Recommendations, Interests, Tools]
 ---
 
-My curiousity has lead me to explore many questions / concepts / phenomenon that I find fscinating. I am documenting few of them below. I will also list some of sources where you find this kind of content.
+My curiousity has lead me to explore many questions / concepts / phenomenon that I find fascinating. I am documenting few of them below. I will also list some of sources where you find this kind of content.
 
 * *Consciousness*: What makes us conscious and what constitutes consciouness?
 * *Intelligence and Emotion*: Are these mere manifestation of a set of rules?
@@ -39,4 +39,5 @@ My curiousity has lead me to explore many questions / concepts / phenomenon that
 Some YouTube channels that I recommend which foster my curiousity are,
 
 [Lex Fridman](https://www.youtube.com/user/lexfridman)  |   [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) |   [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)   |   [Vsauce](https://www.youtube.com/user/Vsauce)   |   [Veritasium](https://www.youtube.com/user/1veritasium)  |   [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart)  |   [Ted-Ed](https://www.youtube.com/user/TEDEducation)   |   [Numberphile](https://www.youtube.com/user/numberphile) |   [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA)    |   [Closer to Truth](https://www.youtube.com/user/CloserToTruth1)
-
+\
+\
