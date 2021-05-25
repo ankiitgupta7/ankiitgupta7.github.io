@@ -21,15 +21,12 @@ tags: [About, Work, Interests, Tools]
 :-------------------------:|:-------------------------:
 Me at India Gate, New Delhi             |   My Affiliations until now!
 
-<br></br>
 
 I am a Final Year Engineering Undergrad at Indian Institute of Technology, Kharagpur <a href="http://www.iitkgp.ac.in/" target="_blank">[IIT KGP]</a>, India.
 
 
-# Interests
 I have been interested in Cognitive Sciences, Computational Cognitive Neurosciences, Evolutionary Psychology, Bio-inspired Robot Collectives and Cognitive Architectures, Cybernetics, & Intelligent System Design. The construct of consciousness in living beings and attempts to synthesize it in non-living beings fascinate me. Thus, I remain interested in both naturally existing (biological) as well as artificially intelligent systems. 
 
-# Evolution of Interests
 At the start of my third year, I opted for the “General Psychology” course at my university as one of the compulsory humanities courses as I now feel, I had some subliminal liking for this thing but never really got an opportunity to explore. So, I attended some more relevant courses available and all the passion to explore our own inner universe started from there. Later that year, I got an opportunity to work in a lab themed around consciousness as summer research intern. It had a deep impact on me, helping me to decide on pursuing research in the long run. I have restarted working with the PI of this lab very recently again and plan to continue remote collaboration until I start my PhDs.
 
 I have been (remotely) part of a research group named [Orthogonal Research and Education Laboratory](https://orthogonal-research.weebly.com/) at Champaign-Urbana, IL, USA, where my work was mainly based on simulating an artificial nervous system inspired from the book, *“Vehicles: Experiments in Synthetic Psychology”* by cyberneticist *Valentino Braitenberg*. Working on this I developed deep interest in naturally exisiting intelligent systems and their origin. We wrote a paper on the same whose arXiv preprint can be found [here](https://arxiv.org/abs/2003.07689). Also, we have been to [OHBM EquinoX Twitter conference 2020](https://twitter.com/OHBMequinoX/status/1241012923755102212) and [Artificial Life (ALife) Conference 2020](https://www.irit.fr/devonn/2020/07/13/alicea.html).
