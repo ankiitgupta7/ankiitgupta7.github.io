@@ -33,7 +33,7 @@ I have been (remotely) part of a research group named [Orthogonal Research and E
 
 I have also worked on Agent-Based simulations exploring evolutionary origins of human reciprocity, at a research lab at **Harvard**. This was part of my attempt to explore fields of studies I am curious about. I absolutely love converting ideas into code and passionate to apply the same in areas I am interested in, so I have been exloring fields where I can be a good fit given my expertise and interest. I have used Agent-Based Simulations, Computation Modelling, & Various Experiment Design Paradigms in my work until now.
 
-Presently, I am working on an open source project with Red Hen Labs, funded through the **Google Summer of Code (GSoC)**. The project summary can be found [here](https://summerofcode.withgoogle.com/projects/4650423719297024) at the official GSoC website.
+Presently, I am working on an open source project with **Red Hen Labs**, funded through the **Google Summer of Code (GSoC)**. The project summary can be found [here](https://summerofcode.withgoogle.com/projects/4650423719297024) at the official GSoC website.
 
 
 I would be always looking for people to have a meaningful future collaboration, given my interests and abilities. Thanks for your time on my page.
