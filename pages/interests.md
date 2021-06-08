@@ -10,17 +10,19 @@ tags: [Recommendations, Interests, Tools]
 My curiousity has lead me to explore many questions / concepts / phenomenon that I find fascinating. I am documenting few of them below. I will also list some of sources where you find this kind of content.
 
 * *Consciousness*: What makes us conscious and what constitutes consciousness?
-* *Intelligence and Emotion*: Are these mere manifestation of a set of rules?
+* *Intelligence and Emotion*: Are these mere manifestation of some set of rules?
 * *Evolution of Human Cognition, Perception, and Behaviour*: What are their building blocks from an evolutionary viewpoint?
-* *Perception of Reality and Extrasensory Perception*: Do you know reality is often different than what you experience with your senses? What about the experinces without any sensory stimultion?
-* *Cellular Automata*: Is the universe a 3D Cellular Automata, whose rules nobody knows? You may look for 'Game of Life' by *John Conway* and *Stephen Wolfram's* models in his 2002 publication 'A New Kind of Science' to find content to ponder on this.
+* *Perception of Reality and Extrasensory Perception*: Do you know reality is often different than what you experience with your senses? What about the experinces without any sensory stimulation?
+* *Cellular Automata*: Is the universe a 3D Cellular Automaton with rules undiscovered until now? You may look for 'Game of Life' by *John Conway* and *Stephen Wolfram's* models in his 2002 publication 'A New Kind of Science' to find content to ponder on this.
 * *Intelligence (Bio-inspired) in Nature and Swarm Intelligence*
     * Bird Flocking (Boids) Algorithm by *Craig Reynolds*
     * Slime Moulds
     * Ant Colonies
 * *What leads to a life form*: The Miller-Urey Experiment
 * *Are we living in a simulation?*: Can you disprove it?
-* *Virtual Organisms*: E. Coli simulation by OpenWorm Foundation
+* *Virtual Organisms*: Simulating an organism mimicking its neuronal wiring, e.g., E. Coli simulation by OpenWorm Foundation
+* *Causality*: Is there reason for everything, or everything is random?
+* What is the purpose of life for human beings from point of view of evolution of organisms? What next after Homo Sapiens?
 
 \
 **Favourite Ted-Talks**
