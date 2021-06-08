@@ -20,7 +20,7 @@ My curiousity has lead me to explore many questions / concepts / phenomenon that
     * Ant Colonies
 * *What leads to a life form*: The Miller-Urey Experiment
 * *Are we living in a simulation?*: Can you disprove it?
-* *Virtual Organisms*: Simulating an organism mimicking its neuronal wiring, e.g., E. Coli simulation by OpenWorm Foundation
+* *Virtual Organisms*: Simulating an organism mimicking its neuronal wiring. Check out the work by OpenWorm Foundation's open source project dedicated to creating a virtual C. elegans nematode in a computer.
 * *Causality*: Is there reason for everything, or everything is random?
 * What is the purpose of life for human beings from point of view of evolution of organisms? What next after Homo Sapiens?
 
