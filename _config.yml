@@ -7,7 +7,6 @@ title: Hello Humans, Welcome to my page!                                   # sit
 description: "ankiitgupta7, IITian, KGPian, AZADian"      # used by search engines
 avatar: assets/img/triangle.png                           # Empty for no avatar in navbar
 favicon: assets/Icons8-Windows-8-Cinema-Avengers.ico                            # Icon displayed in the tab
-color_theme: auto                     # color theme auto, dark or light
 
 # Header and footer text
 header_text: Ankit Gupta  # Change Blog header text
