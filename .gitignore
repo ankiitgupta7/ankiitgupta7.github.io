@@ -1,6 +1,9 @@
 # Idea files
 .idea/*
 
+.gitignore
+
+.tmp.driveupload
 # Mac files
 .DS_Store
 
