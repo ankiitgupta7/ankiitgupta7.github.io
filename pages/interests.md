@@ -12,7 +12,7 @@ My curiousity has lead me to explore many questions / concepts / phenomenon that
 * *Evolution of (Self-Replicating) Intelligent (Nervous) Systems*: And that's how we came into being?
 * *Complexity and Emergent Systems*: And that's why we feel what we feel given how we are organised?
 * *Evolution of Human Cognition, Perception, and Behaviour*: What are their building blocks from an evolutionary viewpoint?
-* *Evolution of Representational Communication & Language*: Is human language is what sets us apart?
+* *Evolution of Representational Communication & Language*: Is human language what sets us apart?
 * *Consciousness*: What makes us conscious and what constitutes consciousness?
 * *Intelligence and Emotion*: Are these mere manifestation of some set of rules?
 * *Cellular Automata*: Is the universe a 3D Cellular Automaton with rules undiscovered until now? You may look for 'Game of Life' by *John Conway* and *Stephen Wolfram's* models in his 2002 publication 'A New Kind of Science' to find content to ponder on this.
