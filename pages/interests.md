@@ -22,7 +22,7 @@ Keywords: agent-based modeling & simulation, artificial life, emergence, complex
     * Slime Moulds
     * Ant Colonies
 * *What leads to a life form*: The Miller-Urey Experiment
-* *Darwin and evolution*: Arguements for and against. What about first life form coming out of priordial soup? 
+* *Darwin and evolution*: Arguements for and against. What about first life form coming out of primordial soup? 
 * *Are we living in a simulation?*: Can you disprove it? 
 * *Virtual Organisms*: Simulating an organism mimicking its neuronal wiring. Check out the work by OpenWorm Foundation's open source project dedicated to creating a virtual C. elegans nematode in a computer.
 * *Perception of Reality and Extrasensory Perception*: Do you know reality is often different than what you experience with your senses? What about the experinces without any sensory stimulation?
