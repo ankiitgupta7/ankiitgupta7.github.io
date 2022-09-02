@@ -9,22 +9,24 @@ tags: [Recommendations, Interests, Tools]
 
 My curiousity has lead me to explore many questions / concepts / phenomenon that I find fascinating. I am documenting few of them below. I will also list some of sources where you find this kind of content.
 
-* *Evolution of (Self-Replicating) Intelligent (Nervous) Systems*: And that's how we came into being?
-* *Complexity and Emergent Systems*: And that's why we feel what we feel given how we are organised?
+Keywords: agent-based modeling & simulation, artificial life, emergence, complex systems, multi-agent systems, self-organizing systems, collective intelligence, digital evolution, ecosystem modeling, evolutionary computation, experimental evolution, cellular automata
+* *Evolution of (Self-Replicating) Intelligent (Nervous) Systems*: Is that how we came into being?
+* *Complexity and Emergent Systems*: Is that why we feel what we feel given how we are organised? What are the limits of our comprehensibility of emergent complex systems.
 * *Evolution of Human Cognition, Perception, and Behaviour*: What are their building blocks from an evolutionary viewpoint?
-* *Evolution of Representational Communication & Language*: Is human language what sets us apart?
-* *Consciousness*: What makes us conscious and what constitutes consciousness?
-* *Intelligence and Emotion*: Are these mere manifestation of some set of rules?
+* *Evolution of Representational Communication & Language*: Is human language what sets us apart? Why is there no (documented) form of representational communication between Vervet Monkeys and Homo Sapiens?
+* *Consciousness*: What makes us conscious and what constitutes consciousness? Or is it just another emergent incomprehensible phenomenon as a result of complex neuronal architecture feeding on sea of sensory data?
+* *Intelligence and Emotion*: Are these mere manifestation of some set of rules? Does physical action causes emotion or vice versa?
 * *Cellular Automata*: Is the universe a 3D Cellular Automaton with rules undiscovered until now? You may look for 'Game of Life' by *John Conway* and *Stephen Wolfram's* models in his 2002 publication 'A New Kind of Science' to find content to ponder on this.
 * *Intelligence (Bio-inspired) in Nature and Swarm Intelligence*
     * Bird Flocking (Boids) Algorithm by *Craig Reynolds*
     * Slime Moulds
     * Ant Colonies
 * *What leads to a life form*: The Miller-Urey Experiment
-* *Are we living in a simulation?*: Can you disprove it?
+* *Darwin and evolution*: Arguements for and against. What about first life form coming out of priordial soup? 
+* *Are we living in a simulation?*: Can you disprove it? 
 * *Virtual Organisms*: Simulating an organism mimicking its neuronal wiring. Check out the work by OpenWorm Foundation's open source project dedicated to creating a virtual C. elegans nematode in a computer.
 * *Perception of Reality and Extrasensory Perception*: Do you know reality is often different than what you experience with your senses? What about the experinces without any sensory stimulation?
-* *Causality*: Is there reason for everything, or everything is random?
+* *Causality*: Is there reason for everything, or everything is random? What about 'free will'?
 * What is the *purpose of life* for human beings from point of view of evolution of organisms? What next after Homo Sapiens?
 
 \
@@ -43,4 +45,4 @@ My curiousity has lead me to explore many questions / concepts / phenomenon that
 
 Some YouTube channels that I recommend which foster my curiousity are,
 
-[Lex Fridman](https://www.youtube.com/user/lexfridman)  |   [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) |   [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)   |   [Vsauce](https://www.youtube.com/user/Vsauce)   |   [Veritasium](https://www.youtube.com/user/1veritasium)  |   [It's Okay To Be Smart](https://www.youtube.com/user/itsokaytobesmart)  |   [Ted-Ed](https://www.youtube.com/user/TEDEducation)   |   [Numberphile](https://www.youtube.com/user/numberphile) |   [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA)    |   [Closer to Truth](https://www.youtube.com/user/CloserToTruth1)    |
+[Lex Fridman](https://www.youtube.com/user/lexfridman)  |   [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)  |   [Primer](https://www.youtube.com/c/PrimerLearning/featured)    |   [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)   |   [Vsauce](https://www.youtube.com/user/Vsauce)   |   [Veritasium](https://www.youtube.com/user/1veritasium)  |   [Ted-Ed](https://www.youtube.com/user/TEDEducation)   |   [Numberphile](https://www.youtube.com/user/numberphile) |   [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA)    |   [Closer to Truth](https://www.youtube.com/user/CloserToTruth1)    |
