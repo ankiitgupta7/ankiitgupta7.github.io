@@ -9,7 +9,8 @@ tags: [Recommendations, Interests, Tools]
 
 My curiousity has lead me to explore many questions / concepts / phenomenon that I find fascinating. I am documenting few of them below. I will also list some of sources where you find this kind of content.
 
-Keywords: agent-based modeling & simulation, artificial life, emergence, complex systems, multi-agent systems, self-organizing systems, collective intelligence, digital evolution, ecosystem modeling, cellular automata, consciousness
+Keywords: *agent-based modeling & simulation, artificial life, emergence, complex systems, multi-agent systems, self-organizing systems, collective intelligence, digital evolution, ecosystem modeling, cellular automata, consciousness*
+
 * *Evolution of (Self-Replicating) Intelligent (Nervous) Systems*: Is that how we came into being?
 * *Complexity and Emergent Systems*: Is that why we feel what we feel given how we are organised? What are the limits of our comprehensibility of emergent complex systems.
 * *Evolution of Human Cognition, Perception, and Behaviour*: What are their building blocks from an evolutionary viewpoint?
