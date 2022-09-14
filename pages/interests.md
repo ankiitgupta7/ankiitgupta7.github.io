@@ -7,15 +7,17 @@ feature-img: "assets/img/onsite/forInterests.jpg"
 tags: [Recommendations, Interests, Tools]
 ---
 
-My curiousity has lead me to explore many questions / concepts / phenomenon that I find fascinating. I am documenting few of them below. I will also list some of sources where you find this kind of content.
+My curiosity has led me to explore many questions/concepts/phenomena that I find fascinating. I am an essentially passionate coder who happened to come across neuroscience during my engineering degree. Studying the fundamentals of neuroscience pushed me more towards the 'why' questions. I find the human brain as an incredible case of complex system and evolution as a great case of simple rule resulting in unimaginable complexity. At the same time, I am also fascinated by other complex systems such as multiagent systems, bio-inspired intelligent systems, self-organizing systems, and cellular automata. I also feel excited about recent advancements in artificial intelligence, especially with recent improvements in reinforcement learning, active learning, and tranfer learning. 
 
-Keywords: *agent-based modeling & simulation, artificial life, emergence, complex systems, multi-agent systems, self-organizing systems, collective intelligence, digital evolution, ecosystem modeling, cellular automata, consciousness*
+Keywords: *agent-based modeling & simulation, artificial life, emergence, complex systems, multi-agent systems, collective intelligence, digital evolution, self-organizing systems, ecosystem modeling, cellular automata, consciousness*
 
+Thoughts on - 
 * *Evolution of (Self-Replicating) Intelligent (Nervous) Systems*: Is that how we came into being?
 * *Complexity and Emergent Systems*: Is that why we feel what we feel given how we are organised? What are the limits of our comprehensibility of emergent complex systems.
-* *Evolution of Human Cognition, Perception, and Behaviour*: What are their building blocks from an evolutionary viewpoint?
+* *Cultural Evolution*: Evolution of information(Dawkin's meme) as it is passed in person or virtually through social media.
 * *Evolution of Representational Communication & Language*: Is human language what sets us apart? Why is there no (documented) form of representational communication between Vervet Monkeys and Homo Sapiens?
-* *Consciousness*: What makes us conscious and what constitutes consciousness? Or is it just another emergent incomprehensible phenomenon as a result of complex neuronal architecture feeding on sea of sensory data?
+* *Evolution of Human Cognition, Perception, and Behaviour*: What are their building blocks from an evolutionary viewpoint?
+* *Consciousness*: Is it just another emergent incomprehensible phenomenon as a result of complex neuronal architecture feeding on sea of sensory data?
 * *Intelligence and Emotion*: Are these mere manifestation of some set of rules? Does physical action causes emotion or vice versa?
 * *Cellular Automata*: Is the universe a 3D Cellular Automaton with rules undiscovered until now? You may look for 'Game of Life' by *John Conway* and *Stephen Wolfram's* models in his 2002 publication 'A New Kind of Science' to find content to ponder on this.
 * *Intelligence (Bio-inspired) in Nature and Swarm Intelligence*
@@ -32,6 +34,7 @@ Keywords: *agent-based modeling & simulation, artificial life, emergence, comple
 
 \
 **Favourite Ted-Talks**
+* [Understanding evolution: Michael Gillings at TEDxMacquarieUniversity](https://www.youtube.com/watch?v=_SSk0YlFN20)
 * [The riddle of experience vs. memory, Daniel Kahneman](https://www.youtube.com/watch?v=XgRlrBl-7Yg&list=PLu8HRr6iBNLeUhP0Q013sqAYU8gwty5X1&index=19)
 * [What hallucination reveals about our minds, Oliver Sacks](https://www.youtube.com/watch?v=SgOTaXhbqPQ&list=PLu8HRr6iBNLeUhP0Q013sqAYU8gwty5X1&index=36)
 * [Nancy Kanwisher: A neural portrait of the human mind](https://www.youtube.com/watch?v=5Yj3nGv0kn8&list=PLu8HRr6iBNLeUhP0Q013sqAYU8gwty5X1&index=45)
