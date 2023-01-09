@@ -22,6 +22,10 @@ tags: [About, Work, Interests, Tools]
 :-------------------------:|:-------------------------:
 Me at India Gate, New Delhi             |   My Affiliations until now!
 
+![](https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/6ab7d7873912e3f7279bb08cef031655bfd24cef/assets/img/onsite/mentors.png)
+
+-------------------------
+My Advisors, Mentors, Supervisors, & Course Instructors   
 
 I am an MS student working with [Prof. Philip Tseng](https://scholar.google.com/citations?user=QNFVE3MAAAAJ&hl=en) at the Graduate Institute of Mind, Brain, & Consciousness based in the capital city of Taiwan, Taipei. This is fully funded through Taiwan's Ministry of Education Scholarship as I am one of the 45 recipients of this prestigious scholarship. I completed my engineering undergraduate degree from the Indian Institute of Technology, Kharagpur (**IIT-KGP**), India in 2021.
 
