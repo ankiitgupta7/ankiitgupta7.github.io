@@ -16,7 +16,7 @@ tags: [About, Work, Interests, Tools]
 </head> 
 
 
-<a href="https://drive.google.com/file/d/1qWQPeSe87NtBtQFIzuV-qryfchyZ_BA6/view?usp=sharing" target="_blank"><b>CV</b></a> | <a href="https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en" target="_blank"><b>Google Scholar</b></a> | <a href="https://twitter.com/ankiitgupta7" target="_blank"><b>Twitter (X)</b></a> | <a href="https://www.linkedin.com/in/ankiitgupta7/" target="_blank"><b>LinkedIn</b></a> | <a href="https://github.com/ankiitgupta7" target="_blank"><b>GitHub</b></a> | <a href="https://medium.com/@ankiitgupta7" target="_blank"><b>Medium</b></a> | <a href="https://ankiitgupta7.wordpress.com/" target="_blank"><b>WordPress</b></a> | <a href="https://www.quora.com/profile/Ankit-Gupta-1695" target="_blank"><b>Quora</b></a> |
+<a href="https://drive.google.com/file/d/1n535ztQW42QEHj3eyCB6SBZ2APensgiX/view?usp=sharing" target="_blank"><b>CV</b></a> | <a href="https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en" target="_blank"><b>Google Scholar</b></a> | <a href="https://twitter.com/ankiitgupta7" target="_blank"><b>Twitter (X)</b></a> | <a href="https://www.linkedin.com/in/ankiitgupta7/" target="_blank"><b>LinkedIn</b></a> | <a href="https://github.com/ankiitgupta7" target="_blank"><b>GitHub</b></a> | <a href="https://medium.com/@ankiitgupta7" target="_blank"><b>Medium</b></a> | <a href="https://ankiitgupta7.wordpress.com/" target="_blank"><b>WordPress</b></a> | <a href="https://www.quora.com/profile/Ankit-Gupta-1695" target="_blank"><b>Quora</b></a> |
 
 Hello there! I am Ankit Gupta, first year PhD student of Computer Science and Engineering at Michigan State University, USA.
 
@@ -24,7 +24,7 @@ I completed my undergraduate engineering degree in 2021 from the Indian Institut
 
 My research interests include evolutionary computation, artificial life, digital evolution, emergence, and complex systems. I mainly use simulation tools and computational modeling to work on my research interests. I have been a passionate programmer since my school days and I find it fun to use it study things that fascinate me.
 
-I am honored to have had my research work recognized with publications in MIT Press Journal and Springer International Publishing. Also, I am thrilled about the prospects that lie ahead as I have just started my Ph.D. in Computer Science and Engineering in the US. 
+I am humbled and honored to have my research work recognized with publications in the MIT Press Journal and Springer International Publishing. Also, I am thrilled about the prospects that lie ahead, as I have just embarked on my Ph.D. journey.
 
 ***
 
