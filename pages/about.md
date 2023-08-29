@@ -30,7 +30,7 @@ I am humbled and honored to have my research work recognized with publications i
 
 *I am grateful for the guidance and support of people in the picture below - my advisors, mentors, supervisors, and course instructors - on my academic journey.*
 
-![](https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/6ab7d7873912e3f7279bb08cef031655bfd24cef/assets/img/onsite/mentors.png)
+![](https://ankiitgupta7.github.io/assets/img/mygallery/mentors.png)
 
 ***
 
