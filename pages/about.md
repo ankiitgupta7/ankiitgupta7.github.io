@@ -36,5 +36,5 @@ I am humbled and honored to have my research work recognized with publications i
 
 *My primary affiliations until now!*
 
-![](https://media.licdn.com/dms/image/D562DAQHJXKybiD_0Uw/profile-treasury-image-shrink_1280_1280/0/1692892866294?e=1693875600&v=beta&t=P1E_R8n-wnixae4jandC9bsIPsV1wC-gdoq10xIm9vU)
+![](https://ankiitgupta7.github.io/assets/img/onsite/affiliations2023.jpg)
 
