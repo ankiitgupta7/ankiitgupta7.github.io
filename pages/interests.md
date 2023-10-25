@@ -12,18 +12,19 @@ My curiosity has led me to explore many questions/concepts/phenomena that I find
 Keywords: *agent-based modeling & simulation, artificial life, emergence, complex systems, multi-agent systems, collective intelligence, digital evolution, self-organizing systems, ecosystem modeling, cellular automata, consciousness*
 
 Thoughts on - 
-* *Evolution of (Self-Replicating) Intelligent (Nervous) Systems*: Is that how we came into being?
+
 * *Complexity and Emergent Systems*: Is that why we feel what we feel given how we are organised? What are the limits of our comprehensibility of emergent complex systems.
-* *Cultural Evolution*: Evolution of information(Dawkin's meme) as it is passed in person or virtually through social media.
-* *Evolution of Representational Communication & Language*: Is human language what sets us apart? Why is there no (documented) form of representational communication between Vervet Monkeys and Homo Sapiens?
-* *Evolution of Human Cognition, Perception, and Behaviour*: What are their building blocks from an evolutionary viewpoint?
-* *Consciousness*: Is it just another emergent incomprehensible phenomenon as a result of complex neuronal architecture feeding on sea of sensory data?
-* *Intelligence and Emotion*: Are these mere manifestation of some set of rules? Does physical action causes emotion or vice versa?
-* *Cellular Automata*: Is the universe a 3D Cellular Automaton with rules undiscovered until now? You may look for 'Game of Life' by *John Conway* and *Stephen Wolfram's* models in his 2002 publication 'A New Kind of Science' to find content to ponder on this.
+* *Evolution of (Self-Replicating) Intelligent (Nervous) Systems*: Is that how we came into being?
 * *Intelligence (Bio-inspired) in Nature and Swarm Intelligence*
     * Bird Flocking (Boids) Algorithm by *Craig Reynolds*
     * Slime Moulds
     * Ant Colonies
+* *Intelligence and Emotion*: Are these mere manifestation of some set of rules? Does physical action causes emotion or vice versa?
+* *Cultural Evolution*: Evolution of information(Dawkin's meme) as it is passed in person or virtually through social media.
+* *Evolution of Representational Communication & Language*: Is human language what sets us apart? Why is there no (documented) form of representational communication between Vervet Monkeys and Homo Sapiens?
+* *Evolution of Human Cognition, Perception, and Behaviour*: What are their building blocks from an evolutionary viewpoint?
+* *Cellular Automata*: Is the universe a 3D Cellular Automaton with rules undiscovered until now? You may look for 'Game of Life' by *John Conway* and *Stephen Wolfram's* models in his 2002 publication 'A New Kind of Science' to find content to ponder on this.
+* *Consciousness*: Is it just another emergent incomprehensible phenomenon as a result of complex neuronal architecture feeding on sea of sensory data?
 * *What leads to a life form*: The Miller-Urey Experiment
 * *Darwin and evolution*: Arguements for and against. What about first life form coming out of primordial soup? 
 * *Are we living in a simulation?*: Can you disprove it? 

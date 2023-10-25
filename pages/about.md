@@ -22,7 +22,7 @@ Hello there! I am Ankit Gupta, first year PhD student (starting Fall'23) of Comp
 
 I completed my undergraduate engineering degree in 2021 from the Indian Institute of Technology, Kharagpur (IIT-KGP), India, spending five most precious and memorable years of my life there. After this, I pursued a MS degree in Cognitive Neuroscience on full scholarship in Taipei City, graduating in May 2023. 
 
-My primary research focus centers on the synthesis of intelligent systems within digital environments, with a keen interest in facilitating their evolution. Consequently, my research interests span evolutionary computation, artificial life, digital evolution, emergence, and complex systems. My primary tools of exploration are simulation and computational modeling, allowing me to delve into the intricacies of these fascinating domains.
+My primary research is focused on the synthesis and evolution of intelligent systems within digital environments, with inspiration from natural intelligence. Consequently, my research interests span evolutionary computation, artificial life, digital evolution, emergence, and complex systems. My primary tools of exploration are simulation and computational modeling, allowing me to delve into the intricacies of these fascinating domains.
 
 My journey as a passionate programmer commenced during my junior high school days when I started programming in Java, and I continue to find joy in wielding code as a means to unravel the mysteries that captivate me.
 
