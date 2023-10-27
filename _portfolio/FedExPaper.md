@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Publication at  Cognitive Research - Principles and Implications (Springer International Publishing)
-feature-img: "assets/img/portfolio/CRPI.jpg"
-img: "assets/img/portfolio/FedEx.png"
+feature-img: "assets/img/portfolio/FedEx.png"
+img: "assets/img/portfolio/CRPI.jpg"
 date: 03-07-2023
 tags: [Implicit processing, Unconscious processing, Figure-ground segregation, Logo design, Consciousness, Biased competition model]
 ---    
