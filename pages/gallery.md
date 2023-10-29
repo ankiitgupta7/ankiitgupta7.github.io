@@ -2,7 +2,7 @@
 layout: page
 title: Memoirs
 subtitle: of places and people I have been to.
-feature-img: "assets/img/onsite/taipei.jpeg"
+feature-img: "assets/img/posts/nehru museum.jpg"
 permalink: /gallery/
 gallery_path: "assets/img/mygallery"
 tags: [Photos, Memoirs]
