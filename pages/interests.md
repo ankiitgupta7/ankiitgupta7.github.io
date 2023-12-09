@@ -7,18 +7,17 @@ feature-img: "assets/img/onsite/forInterests.jpg"
 tags: [Recommendations, Interests, Tools]
 ---
 
-My curiosity has led me to explore many questions/concepts/phenomena that I find fascinating. And I am essentially a passionate coder who happened to come across neuroscience during my engineering degree. Studying the fundamentals of neuroscience pushed me more towards the 'why' questions. I find the human brain as an incredible case of a complex system and evolution as a great case of simple rules resulting in unimaginable complexity. At the same time, given my experiences in projects mentioned earlier, I am also fascinated by other complex systems such as multiagent systems, bio-inspired intelligent systems, self-organizing systems, and cellular automata. I also feel excited about recent advancements in artificial intelligence, especially with recent improvements in reinforcement learning, active learning, and transfer learning. 
+My curiosity has led me to explore many questions/concepts/phenomena that I find fascinating. And I am essentially a passionate coder who happened to come across neuroscience during my engineering degree. Studying the fundamentals of neuroscience pushed me more towards the 'why' questions. I find the human brain as an incredible case of a complex system and evolution as a great case of simple rules resulting in unimaginable complexity. At the same time, given my experiences in projects mentioned earlier, I am also fascinated by other complex systems such as multiagent systems, bio-inspired intelligent systems, self-organizing systems, and cellular automata. I also feel excited about recent advancements in artificial intelligence, especially with advancements in machine learning with autoML and reinforcement learning. 
 
 Keywords: *agent-based modeling & simulation, artificial life, emergence, complex systems, multi-agent systems, collective intelligence, digital evolution, self-organizing systems, ecosystem modeling, cellular automata, consciousness*
 
 Thoughts on - 
 
-* *Complexity and Emergent Systems*: Is that why we feel what we feel given how we are organised? What are the limits of our comprehensibility of emergent complex systems.
-* *Evolution of (Self-Replicating) Intelligent (Nervous) Systems*: Is that how we came into being?
-* *Intelligence (Bio-inspired) in Nature and Swarm Intelligence*
-    * Bird Flocking (Boids) Algorithm by *Craig Reynolds*
-    * Slime Moulds
-    * Ant Colonies
+* *Complexity and Emergent Systems*: Building complex systems bottom-up from simple rules - does nature always prefers a simple rule / route in evolution? Also, what are the limits of our comprehensibility of emergent complex systems?
+* *Evolution of Intelligent (Nervous) Systems*: Can we evolve a neural achitecture and representation for artificial brains to solve a problem or developing a behavior and also fully understand the resulting network?
+* *Intelligence in Nature and (Bio-inspired) Artificial Intelligence*
+    * Bird Flocking (Boids) Algorithm by *Craig Reynolds*; Slime Moulds; Ant Colonies
+    * Building AI systems that mimic them to solve real-world problems.
 * *Intelligence and Emotion*: Are these mere manifestation of some set of rules? Does physical action causes emotion or vice versa?
 * *Cultural Evolution*: Evolution of information(Dawkin's meme) as it is passed in person or virtually through social media.
 * *Evolution of Representational Communication & Language*: Is human language what sets us apart? Why is there no (documented) form of representational communication between Vervet Monkeys and Homo Sapiens?
