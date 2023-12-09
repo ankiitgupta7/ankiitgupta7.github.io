@@ -13,7 +13,7 @@ Keywords: *agent-based modeling & simulation, artificial life, emergence, comple
 
 Thoughts on - 
 
-* *Complexity and Emergent Systems*: Building complex systems bottom-up from simple rules - does nature always prefers a simple rule / route in evolution? Also, what are the limits of our comprehensibility of emergent complex systems?
+* *Complexity and Emergent Systems*: Building complex systems bottom-up from simple rules - does nature always prefers a simpler rule / route in evolution? Also, what are the limits of our comprehensibility of emergent complex systems?
 * *Evolution of Intelligent (Nervous) Systems*: Can we evolve a neural achitecture and representation for artificial brains to solve a problem or developing a behavior and also fully understand the resulting network?
 * *Intelligence in Nature and (Bio-inspired) Artificial Intelligence*
     * Bird Flocking (Boids) Algorithm by *Craig Reynolds*; Slime Moulds; Ant Colonies
