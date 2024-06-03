@@ -38,5 +38,5 @@ I am humbled and honored to have my research work published in the MIT Press Jou
 
 *My primary affiliations until now!*
 
-![](https://ankiitgupta7.github.io/assets/img/onsite/affiliations2024.jpg)
+![](https://ankiitgupta7.github.io/assets/img/onsite/affiliations2024.png)
 
