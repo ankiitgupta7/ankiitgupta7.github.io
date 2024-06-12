@@ -20,7 +20,7 @@ tags: [About, Work, Interests, Tools]
 
 Hello there! 
 
-I am Ankit Gupta, PhD student (Fall 2023 - present) in Computer Science and Engineering at Michigan State University, USA. Additionally, I am part of the MSU Dual PhD program in Ecology, Evolution, and Behavior (EEB). In the summer of 2024, I will be a visiting researcher at the Artificial Intelligence & Innovation Lab at Cedars-Sinai in West Hollywood, Los Angeles.
+I am Ankit Gupta, PhD student (Fall 2023 - present) in Computer Science and Engineering at Michigan State University, USA. Additionally, I am part of the MSU's Dual PhD program in Ecology, Evolution, and Behavior (EEB). In the summer of 2024, I will be a visiting researcher at the Artificial Intelligence & Innovation Lab at Cedars-Sinai in West Hollywood, Los Angeles.
 
 I completed my undergraduate engineering degree in 2021 at the Indian Institute of Technology, Kharagpur (IIT-KGP), India, spending five of the most precious and memorable years of my life there. Following this, I pursued an MS degree in Cognitive Neuroscience on a full scholarship in Taipei City, graduating in May 2023.
 
