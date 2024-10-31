@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-feature-img: "assets/img/onsite/4Pics.png"
+feature-img: "assets/img/onsite/msu_nametag.jpg"
 tags: [About, Work, Interests, Tools]
 ---
 
