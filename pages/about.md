@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-feature-img: "assets/img/onsite/forAbout.jpg"
+feature-img: "assets/img/onsite/4Pics.png"
 tags: [About, Work, Interests, Tools]
 ---
 
