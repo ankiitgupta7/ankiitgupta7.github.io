@@ -6,24 +6,57 @@ feature-img: "assets/img/onsite/fall_leaves.png"
 tags: [About, Work, Interests, Tools]
 ---
 
-<head> 
-        <style> 
-            body { 
-                text-align:center; 
-            }
-        </style> 
+<style> 
+    /* Responsive container styling for Markdown with inline CSS */
+    .content-container {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 20px;
+    }
 
-</head> 
+    .text-section {
+        flex: 1 1 60%;
+        min-width: 300px;
+        max-width: 600px;
+        padding: 10px;
+        text-align: left;
+    }
 
+    .image-section {
+        flex: 1 1 30%;
+        min-width: 200px;
+        display: flex;
+        justify-content: center;
+        padding: 10px;
+    }
+
+    .image-section img {
+        width: 100%;
+        height: auto;
+        max-width: 400px;
+        border-radius: 8px;
+    }
+
+    @media (max-width: 768px) {
+        .content-container {
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .text-section, .image-section {
+            max-width: 100%;
+            text-align: center;
+        }
+    }
+</style>
 
 <a href="https://drive.google.com/file/d/1n535ztQW42QEHj3eyCB6SBZ2APensgiX/view?usp=sharing" target="_blank"><b>CV</b></a> | <a href="https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en" target="_blank"><b>Google Scholar</b></a> | <a href="https://twitter.com/ankiitgupta7" target="_blank"><b>Twitter (X)</b></a> | <a href="https://www.linkedin.com/in/ankiitgupta7/" target="_blank"><b>LinkedIn</b></a> | <a href="https://github.com/ankiitgupta7" target="_blank"><b>GitHub</b></a> | <a href="https://medium.com/@ankiitgupta7" target="_blank"><b>Medium</b></a> | <a href="https://ankiitgupta7.wordpress.com/" target="_blank"><b>WordPress</b></a> | <a href="https://www.quora.com/profile/Ankit-Gupta-1695" target="_blank"><b>Quora</b></a> |
 
+<div class="content-container">
 
-<!-- Begin side-by-side layout with image on the right -->
-<div style="display: flex; align-items: flex-start;">
-
-  <!-- Text section -->
-  <div style="flex: 1;">
+  <div class="text-section">
     <p>Hello there!</p>
     <p>
       I am Ankit Gupta, PhD student (Fall 2023 - present) in Computer Science and Engineering at Michigan State University, USA. Additionally, I am part of the MSU's Dual PhD program in Ecology, Evolution, and Behavior (EEB). In the summer of 2024, I will be a visiting researcher at the Artificial Intelligence & Innovation Lab at Cedars-Sinai in West Hollywood, Los Angeles.
@@ -33,11 +66,11 @@ tags: [About, Work, Interests, Tools]
     </p>
   </div>
 
-  <!-- Image section on the right -->
-  <img src="https://ankiitgupta7.github.io/assets/img/mygallery/India%20Gate%20Picture.jpeg" alt="Ankit Gupta" style="height: auto; max-height: 100%; width: auto; max-width: 50%; margin-left: 20px;">
+  <div class="image-section">
+    <img src="https://ankiitgupta7.github.io/assets/img/mygallery/India%20Gate%20Picture.jpeg" alt="Ankit Gupta">
+  </div>
 
 </div>
-<!-- End side-by-side layout -->
 
 <br>
 
@@ -46,8 +79,6 @@ My primary research focuses on the synthesis and evolution of intelligent system
 My passion for programming began in junior high school when I started coding in Java, and I continue to find joy in using code to explore the mysteries that interest me.
 
 I am humbled and honored to have my research published in the MIT Press Journal and Springer International Publishing. Recently, I presented my work at the International Conference on the Evolution of Language (Evolang XV), held in Madison, Wisconsin, in May 2024. I am excited about the opportunities ahead in evolution-inspired computing as I delve further into my Ph.D. journey.
-
-
 
 ***
 
@@ -60,4 +91,3 @@ I am humbled and honored to have my research published in the MIT Press Journal 
 *My primary affiliations until now!*
 
 ![](https://ankiitgupta7.github.io/assets/img/onsite/affiliations2024.png)
-

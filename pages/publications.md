@@ -3,7 +3,7 @@ layout: page
 title: Publications
 subtitle: Journals as well as Conference Proceedings.
 permalink: /publications/
-feature-img: "assets/img/onsite/publications.png"
+feature-img: "assets/img/onsite/publications_with_smooth_cyan_background.png"
 tags: [publications, journal, conference]
 ---
 
