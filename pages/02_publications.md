@@ -11,7 +11,7 @@ tags: [publications, journal, conference]
 as developmental neurosimulation. Artificial Life (MIT Press), 28(3), 369–395. 
 
 <audio controls>
-  <source src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/master/assets/audio/Alife%20BV.wav" type="audio/wav">
+  <source src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/master/assets/audio/Alife_BV.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
@@ -19,7 +19,7 @@ as developmental neurosimulation. Artificial Life (MIT Press), 28(3), 369–395.
 FedEx logo: Do we really unconsciously “see” it? Cognitive Research: Principles and Implications (Springer International Publishing), 8(1), 40.
 
 <audio controls>
-  <source src="https://github.com/ankiitgupta7/ankiitgupta7.github.io/blob/master/assets/audio/FedEx%20Paper%20-%20Podcast.wav" type="audio/wav">
+  <source src="https://github.com/ankiitgupta7/ankiitgupta7.github.io/blob/master/assets/audio/FedEx_Paper.wav" type="audio/wav">
   Your browser does not support the audio element.
 </audio>
 
