@@ -9,7 +9,7 @@ tags: [publications, journal, conference]
 
 ## Journal Publications
 
-1. Dvoretskii, S., Gong, Z., **Gupta, A.**, Parent, J., & Alicea, B. (2022). Braitenberg vehicles as developmental neurosimulation. ***Artificial Life (MIT Press)***, *28*(3), 369–395.  
+1. Dvoretskii, S., Gong, Z., **Gupta, A.**, Parent, J., & Alicea, B. (2022). Braitenberg vehicles as developmental neurosimulation. *Artificial Life (MIT Press)*, *28*(3), 369–395.  
    - **Abstract:** Connecting brain and behavior is a longstanding
 issue in the areas of behavioral science, artificial intelligence, and
 neurobiology. As is standard among models of artificial and
@@ -33,14 +33,17 @@ algorithm hybrid model), hinges connecting behavioral and neural
 models (multisensory Hebbian learning model), and cumulative
 classification (multi-agent approaches). In conclusion, we consider
 future applications of the developmental neurosimulation approach.  
-   - **AI-Generated Paper-Discussion Podcast (by NotebookLM):**  
+   - **AI-Generated Paper-Discussion Podcast (by NotebookLM):**
+     <br>  
      <audio controls>
        <source src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/master/assets/audio/Alife_BV.wav" type="audio/wav">
        Your browser does not support the audio element.
-     </audio>  
-   - **Paper:** [DOI](https://doi.org/10.1162/artl_a_00384) | [PDF](https://scholar.google.com/scholar_url?url=https://direct.mit.edu/artl/article-pdf/28/3/369/2037990/artl_a_00384.pdf%3Fcasa_token%3D1fURgGQGKKQAAAAA:BzkGHADEBCCo5yl8C41oI2b5auYptJGZq7xcu1b9KFpKpWzAR40gFPBNcpc_-EPB8BszSv705cI&hl=en&sa=T&oi=ucasa&ct=ucasa&ei=XBIoZ6wn8MjL1g_TwsrxBQ&scisig=AFWwaeYSNXGh0U3HIMDxv6Cul-zc)
+     </audio>
 
-2. Ke, S.-C., **Gupta, A.**, Lo, Y.-H., Ting, C.-C., & Tseng, P. (2023). The hidden arrow in the FedEx logo: Do we really unconsciously “see” it? ***Cognitive Research: Principles and Implications (Springer International Publishing)***, *8*(1), 40.  
+     <br>  
+    [DOI](https://doi.org/10.1162/artl_a_00384) | [PDF](https://scholar.google.com/scholar_url?url=https://direct.mit.edu/artl/article-pdf/28/3/369/2037990/artl_a_00384.pdf%3Fcasa_token%3D1fURgGQGKKQAAAAA:BzkGHADEBCCo5yl8C41oI2b5auYptJGZq7xcu1b9KFpKpWzAR40gFPBNcpc_-EPB8BszSv705cI&hl=en&sa=T&oi=ucasa&ct=ucasa&ei=XBIoZ6wn8MjL1g_TwsrxBQ&scisig=AFWwaeYSNXGh0U3HIMDxv6Cul-zc)
+
+2. Ke, S.-C., **Gupta, A.**, Lo, Y.-H., Ting, C.-C., & Tseng, P. (2023). The hidden arrow in the FedEx logo: Do we really unconsciously “see” it? *Cognitive Research: Principles and Implications (Springer International Publishing)*, *8*(1), 40.  
    - **Abstract:** The FedEx logo makes clever use of fgure-ground ambiguity to create an “invisible” arrow in the background space 
 between “E” and “x”. Most designers believe the hidden arrow can convey an unconscious impression of speed and 
 precision about the FedEx brand, which may infuence subsequent behavior. To test this assumption, we designed 
@@ -57,30 +60,34 @@ efect in attention, but (2) knowing about the arrow can fundamentally change the
 negative-space logos in the future, making people react faster to images with negative space regardless of the hid‑
 den content.  
    - **AI-Generated Paper-Discussion Podcast (by NotebookLM):**  
+     <br>  
      <audio controls>
        <source src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/master/assets/audio/FedEx_Paper.wav" type="audio/wav">
        Your browser does not support the audio element.
-     </audio>  
-   - **Paper:** [DOI](https://doi.org/10.1186/s41235-023-00494-x) | [PDF](https://cognitiveresearchjournal.springeropen.com/counter/pdf/10.1186/s41235-023-00494-x.pdf)
+     </audio>
+     <br>    
+    [DOI](https://doi.org/10.1186/s41235-023-00494-x) | [PDF](https://cognitiveresearchjournal.springeropen.com/counter/pdf/10.1186/s41235-023-00494-x.pdf)
 
 ---
 
 ## Conference Proceedings
 
-1. **Gupta, A.**, & Steen, F. (2024). Simulating representational communication in vervet monkeys using agent-based simulation. In ***Proceedings of the 15th International Conference on the Evolution of Language*** (pp. 229–231). Max Planck Institute for Psycholinguistics.  
+1. **Gupta, A.**, & Steen, F. (2024). Simulating representational communication in vervet monkeys using agent-based simulation. In *Proceedings of the 15th International Conference on the Evolution of Language* (pp. 229–231). Max Planck Institute for Psycholinguistics.  
    - **Introduction:** Human languages are composed in part by discrete patterns of sound that can be linked to meanings through social learning. What are the evolutionary pressures that drove the development of referential vocalization? In this project, we explore the survival costs and benefits of referential alarm calls in a savanna-dwelling primate. We base our model on the discovery that the African vervet monkey (Chlorocebus pygerythrus) gives acoustically different alarm calls to different predators (Struhsaker, 1967; Seyfarth & Cheney, 1980a, b, c), conditional on context (Deshpande et al., 2023). In the following, we simulate the costs that vervets incur by monitoring their environment for predators, issuing alarm calls, running to escape potential predators, and foregoing foragingin favor of seeking refuge, and track the survival outcomes. Our goal is to determine the envelope of evolvability of representational signaling in the parameter space of a troop of primates in an African savannah environment.  
-   - **AI-Generated Paper-Discussion Podcast (by NotebookLM):**  
+   - **AI-Generated Paper-Discussion Podcast (by NotebookLM):**
+     <br>    
      <audio controls>
        <source src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/master/assets/audio/vervetSim.wav" type="audio/wav">
        Your browser does not support the audio element.
-     </audio>  
-   - **Paper:** [DOI](https://doi.org/10.17617/2.3587960) | [PDF](https://pure.mpg.de/rest/items/item_3587960_5/component/file_3600212/content)
+     </audio> 
+     <br>   
+    [DOI](https://doi.org/10.17617/2.3587960) | [PDF](https://pure.mpg.de/rest/items/item_3587960_5/component/file_3600212/content)
 
 ---
 
 ## Journals (Under Review)
 
-1. **Gupta, A.**, Lo, Y.-H., Cheng, T., & Tseng, P. (2024). The sustenance & retention of perspectival shape representations. ***Consciousness and Cognition***. Under review.   
+1. **Gupta, A.**, Lo, Y.-H., Cheng, T., & Tseng, P. (2024). The sustenance & retention of perspectival shape representations. *Consciousness and Cognition*. Under review.   
 
 ---
 
