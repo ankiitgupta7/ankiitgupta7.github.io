@@ -3,7 +3,7 @@ layout: page
 title: Publications
 subtitle: Journals as well as Conference Proceedings.
 permalink: /publications/
-feature-img: "assets/img/onsite/publications_with_smooth_cyan_background.png"
+feature-img: "assets/img/onsite/publi.jpg"
 tags: [publications, journal, conference]
 ---
 
@@ -41,7 +41,7 @@ future applications of the developmental neurosimulation approach.
      </audio>
 
      <br>  
-    [DOI](https://doi.org/10.1162/artl_a_00384) | [PDF](https://scholar.google.com/scholar_url?url=https://direct.mit.edu/artl/article-pdf/28/3/369/2037990/artl_a_00384.pdf%3Fcasa_token%3D1fURgGQGKKQAAAAA:BzkGHADEBCCo5yl8C41oI2b5auYptJGZq7xcu1b9KFpKpWzAR40gFPBNcpc_-EPB8BszSv705cI&hl=en&sa=T&oi=ucasa&ct=ucasa&ei=XBIoZ6wn8MjL1g_TwsrxBQ&scisig=AFWwaeYSNXGh0U3HIMDxv6Cul-zc)
+   - [DOI](https://doi.org/10.1162/artl_a_00384) | [PDF](https://scholar.google.com/scholar_url?url=https://direct.mit.edu/artl/article-pdf/28/3/369/2037990/artl_a_00384.pdf%3Fcasa_token%3D1fURgGQGKKQAAAAA:BzkGHADEBCCo5yl8C41oI2b5auYptJGZq7xcu1b9KFpKpWzAR40gFPBNcpc_-EPB8BszSv705cI&hl=en&sa=T&oi=ucasa&ct=ucasa&ei=XBIoZ6wn8MjL1g_TwsrxBQ&scisig=AFWwaeYSNXGh0U3HIMDxv6Cul-zc)
 
 2. Ke, S.-C., **Gupta, A.**, Lo, Y.-H., Ting, C.-C., & Tseng, P. (2023). The hidden arrow in the FedEx logo: Do we really unconsciously “see” it? *Cognitive Research: Principles and Implications (Springer International Publishing)*, *8*(1), 40.  
    - **Abstract:** The FedEx logo makes clever use of fgure-ground ambiguity to create an “invisible” arrow in the background space 
@@ -66,7 +66,7 @@ den content.
        Your browser does not support the audio element.
      </audio>
      <br>    
-    [DOI](https://doi.org/10.1186/s41235-023-00494-x) | [PDF](https://cognitiveresearchjournal.springeropen.com/counter/pdf/10.1186/s41235-023-00494-x.pdf)
+    - [DOI](https://doi.org/10.1186/s41235-023-00494-x) | [PDF](https://cognitiveresearchjournal.springeropen.com/counter/pdf/10.1186/s41235-023-00494-x.pdf)
 
 ---
 
@@ -81,7 +81,7 @@ den content.
        Your browser does not support the audio element.
      </audio> 
      <br>   
-    [DOI](https://doi.org/10.17617/2.3587960) | [PDF](https://pure.mpg.de/rest/items/item_3587960_5/component/file_3600212/content)
+    - [DOI](https://doi.org/10.17617/2.3587960) | [PDF](https://pure.mpg.de/rest/items/item_3587960_5/component/file_3600212/content)
 
 ---
 
