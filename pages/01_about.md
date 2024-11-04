@@ -6,14 +6,14 @@ feature-img: "assets/img/onsite/about.png"
 tags: [About, Work, Interests, Tools]
 ---
 
-<!-- <head> 
+<head> 
         <style> 
             body { 
                 text-align:center; 
             }
         </style> 
 
-</head>  -->
+</head> 
 
 
 <a href="https://drive.google.com/file/d/1EfiqiEd5rr7nJvMWb7F0zn7Pw-CNKclH/view" target="_blank"><b>Resume</b></a> | <a href="https://drive.google.com/file/d/1am4vLS0rRuE6yXU1o661U8A3MQw_BG9w/view" target="_blank"><b>CV</b></a> | <a href="https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en" target="_blank"><b>Google Scholar</b></a> | <a href="https://twitter.com/ankiitgupta7" target="_blank"><b>Twitter (X)</b></a> | <a href="https://www.linkedin.com/in/ankiitgupta7/" target="_blank"><b>LinkedIn</b></a> | <a href="https://github.com/ankiitgupta7" target="_blank"><b>GitHub</b></a> | <a href="https://medium.com/@ankiitgupta7" target="_blank"><b>Medium</b></a> | <a href="https://ankiitgupta7.wordpress.com/" target="_blank"><b>WordPress</b></a> | <a href="https://www.quora.com/profile/Ankit-Gupta-1695" target="_blank"><b>Quora</b></a> |
@@ -57,7 +57,7 @@ I am humbled and honored to have my research published in the MIT Press Journal 
 
 ***
 
-*My primary affiliations until now!*
+*Also, I am grateful to these institutions that I have been integral part in my research journey.*
 
 ![](https://ankiitgupta7.github.io/assets/img/onsite/affiliations2024.png)
 

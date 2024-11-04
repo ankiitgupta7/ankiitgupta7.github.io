@@ -37,13 +37,13 @@ models (multisensory Hebbian learning model), and cumulative
 classification (multi-agent approaches). In conclusion, we consider
 future applications of the developmental neurosimulation approach.
 <br>    
-**AI-Generated Paper-Discussion Podcast (by NotebookLM):**
+**AI-Generated Paper-Discussion Podcast (by NotebookLM):**\
+     <br>
      <br>  
      <audio controls>
        <source src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/master/assets/audio/Alife_BV.wav" type="audio/wav">
        Your browser does not support the audio element.
      </audio>
-<br>
 <br>  
 2. Ke, S.-C., **Gupta, A.**, Lo, Y.-H., Ting, C.-C., & Tseng, P. (2023). The hidden arrow in the FedEx logo: Do we really unconsciously “see” it? *Cognitive Research: Principles and Implications (Springer International Publishing)*, *8*(1), 40.
 <br>  
@@ -66,7 +66,8 @@ negative-space logos in the future, making people react faster to images with ne
 den content.  
 <br>    
 **AI-Generated Paper-Discussion Podcast (by NotebookLM):**  
-     <br>   
+     <br>
+        
      <audio controls>
        <source src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/master/assets/audio/FedEx_Paper.wav" type="audio/wav">
        Your browser does not support the audio element.
@@ -81,8 +82,8 @@ den content.
 <br>     
 **Introduction:** Human languages are composed in part by discrete patterns of sound that can be linked to meanings through social learning. What are the evolutionary pressures that drove the development of referential vocalization? In this project, we explore the survival costs and benefits of referential alarm calls in a savanna-dwelling primate. We base our model on the discovery that the African vervet monkey (Chlorocebus pygerythrus) gives acoustically different alarm calls to different predators (Struhsaker, 1967; Seyfarth & Cheney, 1980a, b, c), conditional on context (Deshpande et al., 2023). In the following, we simulate the costs that vervets incur by monitoring their environment for predators, issuing alarm calls, running to escape potential predators, and foregoing foragingin favor of seeking refuge, and track the survival outcomes. Our goal is to determine the envelope of evolvability of representational signaling in the parameter space of a troop of primates in an African savannah environment. 
 <br>     
-**AI-Generated Paper-Discussion Podcast (by NotebookLM):**
-     <br>     
+**AI-Generated Paper-Discussion Podcast (by NotebookLM):**\
+     <br>   
      <audio controls>
        <source src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/master/assets/audio/vervetSim.wav" type="audio/wav">
        Your browser does not support the audio element.
@@ -94,7 +95,5 @@ den content.
 1. **Gupta, A.**, Lo, Y.-H., Cheng, T., & Tseng, P. (2024). The sustenance & retention of perspectival shape representations. *Consciousness and Cognition*. Under review.   
 
 ---
-
-## Additional Notes
-
-For more information, please refer to my [Google Scholar](https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en) and [GitHub](https://github.com/ankiitgupta7) for code for these studies.
+\
+For more information, please refer to my [Google Scholar](https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en).
