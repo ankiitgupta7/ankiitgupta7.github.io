@@ -3,7 +3,7 @@ layout: page
 title: Interests
 subtitle: Things that I ponder about.
 permalink: /interests/
-feature-img: "assets/img/onsite/forInterests.jpg"
+feature-img: "assets/img/onsite/interests.png"
 tags: [Recommendations, Interests, Tools]
 ---
 
