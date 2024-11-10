@@ -15,10 +15,6 @@ tags: [About, Work, Interests, Tools]
 
 </head> 
 
-
-<a href="https://drive.google.com/file/d/1EfiqiEd5rr7nJvMWb7F0zn7Pw-CNKclH/view" target="_blank"><b>Resume</b></a> | <a href="https://drive.google.com/file/d/1am4vLS0rRuE6yXU1o661U8A3MQw_BG9w/view" target="_blank"><b>CV</b></a> | <a href="https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en" target="_blank"><b>Google Scholar</b></a> | <a href="https://twitter.com/ankiitgupta7" target="_blank"><b>Twitter (X)</b></a> | <a href="https://www.linkedin.com/in/ankiitgupta7/" target="_blank"><b>LinkedIn</b></a> | <a href="https://github.com/ankiitgupta7" target="_blank"><b>GitHub</b></a> | <a href="https://medium.com/@ankiitgupta7" target="_blank"><b>Medium</b></a> | <a href="https://ankiitgupta7.wordpress.com/" target="_blank"><b>WordPress</b></a> | <a href="https://www.quora.com/profile/Ankit-Gupta-1695" target="_blank"><b>Quora</b></a> |
-
-
 <!-- Begin side-by-side layout with image on the right -->
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
@@ -31,6 +27,10 @@ tags: [About, Work, Interests, Tools]
     <p>
       I completed my undergraduate engineering degree in 2021 at the Indian Institute of Technology, Kharagpur (IIT-KGP), India, spending five of the most precious and memorable years of my life there. Following this, I pursued an MS degree in Cognitive Neuroscience on a full scholarship in Taipei City, graduating in May 2023. 
     </p>
+
+
+  <a href="https://drive.google.com/file/d/1EfiqiEd5rr7nJvMWb7F0zn7Pw-CNKclH/view" target="_blank"><b>Resume</b></a> | <a href="https://drive.google.com/file/d/1am4vLS0rRuE6yXU1o661U8A3MQw_BG9w/view" target="_blank"><b>CV</b></a> | <a href="https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en" target="_blank"><b>Google Scholar</b></a> | <a href="https://twitter.com/ankiitgupta7" target="_blank"><b>Twitter (X)</b></a> | <a href="https://www.linkedin.com/in/ankiitgupta7/" target="_blank"><b>LinkedIn</b></a> | <a href="https://github.com/ankiitgupta7" target="_blank"><b>GitHub</b></a> | <a href="https://medium.com/@ankiitgupta7" target="_blank"><b>Medium</b></a> | <a href="https://ankiitgupta7.wordpress.com/" target="_blank"><b>WordPress</b></a> | <a href="https://www.quora.com/profile/Ankit-Gupta-1695" target="_blank"><b>Quora</b></a> |
+
   </div>
 
   <!-- Image section -->
