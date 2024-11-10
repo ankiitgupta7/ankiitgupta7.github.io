@@ -20,34 +20,34 @@ tags: [About, Work, Interests, Tools]
 
 
 <!-- Begin side-by-side layout with image on the right -->
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <!-- Text section -->
-  <div style="flex: 1;">
+  <div style="flex: 1; min-width: 0;">
     <p>Hello there!</p>
     <p>
-      I am Ankit Gupta, PhD student (Fall 2023 - present) in Computer Science and Engineering at Michigan State University, USA. Additionally, I am part of the MSU's Dual PhD program in Ecology, Evolution, and Behavior (EEB). In the summer of 2024, I will be a visiting researcher at the Artificial Intelligence & Innovation Lab at Cedars-Sinai in West Hollywood, Los Angeles.
+      I am Ankit Gupta, a PhD candidate in Computer Science and Engineering at Michigan State University, USA. I am also enrolled in MSU's Dual PhD program in Ecology, Evolution, and Behavior (EEB). I work with Prof. Emily Dolson at the ECODE Lab, which is part of the BEACON research group at Michigan State.
     </p>
     <p>
-      I completed my undergraduate engineering degree in 2021 at the Indian Institute of Technology, Kharagpur (IIT-KGP), India, spending five of the most precious and memorable years of my life there. Following this, I pursued an MS degree in Cognitive Neuroscience on a full scholarship in Taipei City, graduating in May 2023.
+      I completed my undergraduate engineering degree in 2021 at the Indian Institute of Technology, Kharagpur (IIT-KGP), India, spending five of the most precious and memorable years of my life there. Following this, I pursued an MS degree in Cognitive Neuroscience on a full scholarship in Taipei City, graduating in May 2023. 
     </p>
   </div>
 
-  <!-- Image section on the right -->
-  <img src="https://ankiitgupta7.github.io/assets/img/mygallery/India%20Gate%20Picture.jpeg" alt="Ankit Gupta" style="height: auto; max-height: 100%; width: auto; max-width: 60%; margin-left: 20px;">
+  <!-- Image section -->
+  <div style="flex: 0 0 40%; display: flex; align-items: flex-start;">
+    <img src="https://ankiitgupta7.github.io/assets/img/mygallery/India%20Gate%20Picture.jpeg" alt="Ankit Gupta" style="width: 100%; height: auto; object-fit: contain;">
+  </div>
 
 </div>
 <!-- End side-by-side layout -->
 
 <br>
 
-My primary research focuses on the synthesis and evolution of intelligent systems within digital environments, guided by insights from natural intelligence. I am deeply captivated by how evolution, as an algorithm, can lead to emergent complexity in both natural and artificially intelligent systems. This fascination has led me to explore diverse research domains, including evolutionary computation, artificial life, digital evolution, emergence, intelligent systems, and complex systems. I leverage simulation and computational modeling to unravel the intricacies of these compelling fields. In short, my core interest lies in evolving complex systems, particularly related to Neuroevolution and Open-endedness. I am also interested in automated Machine Learning (autoML) methods that are based on Evolutionary Computation.
+I am broadly interested in using evolutionary computation to build open-ended AI systems. I am deeply captivated by how evolution, as an algorithm, can lead to emergent complexity in both natural and artificially intelligent systems. Specifically, I draw inspiration from the open-ended nature of natural evolution, which in a single, ongoing run has generated all life forms on Earth, achieving astronomical complexity and the human-level intelligence we strive to replicate. I believe this open-ended franework is key to building AI systems capable of artificial general or even superhuman intelligence.
 
-My passion for programming began in junior high school when I started coding in Java, and I continue to find joy in using code to explore the mysteries that interest me.
+Most recently, I have been working on an evolutionary algorithm to probe if some machine learning models can be tricked into making very confident but misleading predictions for image classification and the reasoning behind such occurences. In summer of 2024, I worked on an Auto-ML tool (TPOT2) optimizing ML pipelines using genetic programming.
 
-I am humbled and honored to have my research published in the MIT Press Journal and Springer International Publishing. Recently, I presented my work at the International Conference on the Evolution of Language (Evolang XV), held in Madison, Wisconsin, in May 2024. I am excited about the opportunities ahead in evolution-inspired computing as I delve further into my Ph.D. journey.
-
-
+I am humbled and honored to have my research published in the MIT Press Journal and Springer International Publishing. Recently, I presented my Google Summer of Code work at the International Conference on the Evolution of Language (Evolang XV), held in Madison, Wisconsin, in May 2024. I am excited about the opportunities ahead in evolution-inspired computing as I delve further into my Ph.D. journey.
 
 ***
 

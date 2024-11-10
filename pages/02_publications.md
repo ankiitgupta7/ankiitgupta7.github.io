@@ -39,7 +39,6 @@ future applications of the developmental neurosimulation approach.
 <br>    
 **AI-Generated Paper-Discussion Podcast (by NotebookLM):**\
      <br>
-     <br>  
      <audio controls>
        <source src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/master/assets/audio/Alife_BV.wav" type="audio/wav">
        Your browser does not support the audio element.
