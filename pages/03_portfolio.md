@@ -1,6 +1,6 @@
 --- 
 layout: page
-title : Portfolio 
+title : Projects 
 permalink: /portfolio/
 subtitle: "Simulations | Conferences | Publications | Projects" 
 feature-img: "assets/img/pexels/computer.jpeg"
