@@ -14,64 +14,31 @@ tags: [About, Work, Interests, Tools]
         </style> 
 
 </head> 
-
 <!-- Begin side-by-side layout with image on the right -->
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <!-- Text section -->
-  <div style="flex: 1; min-width: 0;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1; min-width: 300px;">
     <p>Hello there!</p>
     <p>
       I am Ankit Gupta, a PhD candidate in Computer Science and Engineering at Michigan State University, USA. I am also enrolled in MSU's Dual PhD program in Ecology, Evolution, and Behavior (EEB). I work with Prof. Emily Dolson at the ECODE Lab, which is part of the BEACON research group at Michigan State.
     </p>
     <p>
-      I completed my undergraduate engineering degree in 2021 at the Indian Institute of Technology, Kharagpur (IIT-KGP), India, spending five of the most precious and memorable years of my life there. Following this, I pursued an MS degree in Cognitive Neuroscience on a full scholarship in Taipei City, graduating in May 2023. 
-    </p>
-
-
-  <!-- Begin side-by-side layout with text in a box -->
-  <div style="display: flex; align-items: flex-start; gap: 20px;">
-
-    <!-- Text section -->
-    <div style="flex: 1; min-width: 0;">
-      <p>Hello there!</p>
-      <p>
-        I am Ankit Gupta, a PhD candidate in Computer Science and Engineering at Michigan State University, USA. I am also enrolled in MSU's Dual PhD program in Ecology, Evolution, and Behavior (EEB). I work with Prof. Emily Dolson at the ECODE Lab, which is part of the BEACON research group at Michigan State.
-      </p>
-      <p>
-        I completed my undergraduate engineering degree in 2021 at the Indian Institute of Technology, Kharagpur (IIT-KGP), India, spending five of the most precious and memorable years of my life there. Following this, I pursued an MS degree in Cognitive Neuroscience on a full scholarship in Taipei City, graduating in May 2023. 
-      </p>
-
-      <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
-        <a href="https://drive.google.com/file/d/1EfiqiEd5rr7nJvMWb7F0zn7Pw-CNKclH/view" target="_blank"><b>Resume</b></a> | 
-        <a href="https://drive.google.com/file/d/1am4vLS0rRuE6yXU1o661U8A3MQw_BG9w/view" target="_blank"><b>CV</b></a> | 
-        <a href="https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en" target="_blank"><b>Google Scholar</b></a> | 
-        <a href="https://twitter.com/ankiitgupta7" target="_blank"><b>Twitter (X)</b></a> | 
-        <a href="https://www.linkedin.com/in/ankiitgupta7/" target="_blank"><b>LinkedIn</b></a> | 
-        <a href="https://github.com/ankiitgupta7" target="_blank"><b>GitHub</b></a> | 
-        <a href="https://medium.com/@ankiitgupta7" target="_blank"><b>Medium</b></a> | 
-        <a href="https://www.quora.com/profile/Ankit-Gupta-1695" target="_blank"><b>Quora</b></a> |
-      </div>
-
-    </div>
-
-    <!-- Image section -->
-    <div style="flex: 0 0 40%; display: flex; align-items: flex-start;">
-      <img src="https://ankiitgupta7.github.io/assets/img/mygallery/India%20Gate%20Picture.jpeg" alt="Ankit Gupta" style="width: 100%; height: auto; object-fit: contain;">
+      I completed my undergraduate engineering degree in 2021 at the Indian Institute of Technology, Kharagpur (IIT-KGP), India, spending five of the most precious and memorable years of my life there. Following this, I pursued an MS degree in Cognitive Neuroscience on a full scholarship in Taipei City, graduating in May 2023.
+    <div style="border: 1px solid #ccc; padding: 10px; border-radius: 5px; margin-top: 10px; display: flex; flex-wrap: wrap; gap: 10px;">
+      <p style="flex: 1; min-width: 150px;"><a href="https://drive.google.com/file/d/1EfiqiEd5rr7nJvMWb7F0zn7Pw-CNKclH/view" target="_blank"><b>Resume</b></a></p>
+      <p style="flex: 1; min-width: 150px;"><a href="https://drive.google.com/file/d/1am4vLS0rRuE6yXU1o661U8A3MQw_BG9w/view" target="_blank"><b>CV</b></a></p>
+      <p style="flex: 1; min-width: 150px;"><a href="https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en" target="_blank"><b>Google Scholar</b></a></p>
+      <p style="flex: 1; min-width: 150px;"><a href="https://twitter.com/ankiitgupta7" target="_blank"><b>Twitter (X)</b></a></p>
+      <p style="flex: 1; min-width: 150px;"><a href="https://www.linkedin.com/in/ankiitgupta7/" target="_blank"><b>LinkedIn</b></a></p>
+      <p style="flex: 1; min-width: 150px;"><a href="https://github.com/ankiitgupta7" target="_blank"><b>GitHub</b></a></p>
+      <p style="flex: 1; min-width: 150px;"><a href="https://medium.com/@ankiitgupta7" target="_blank"><b>Medium</b></a></p>
+      <p style="flex: 1; min-width: 150px;"><a href="https://www.quora.com/profile/Ankit-Gupta-1695" target="_blank"><b>Quora</b></a></p>
     </div>
 
   </div>
-  <!-- End side-by-side layout -->
-
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://ankiitgupta7.github.io/assets/img/mygallery/India%20Gate%20Picture.jpeg" alt="Ankit Gupta" style="width: 100%; height: auto; object-fit: contain; border: 1px solid #ccc; padding: 10px; border-radius: 5px; margin-top: 10px;">
   </div>
-
-  <!-- Image section -->
-  <div style="flex: 0 0 40%; display: flex; align-items: flex-start;">
-    <img src="https://ankiitgupta7.github.io/assets/img/mygallery/India%20Gate%20Picture.jpeg" alt="Ankit Gupta" style="width: 100%; height: auto; object-fit: contain;">
-  </div>
-
 </div>
-<!-- End side-by-side layout -->
 
 <br>
 
