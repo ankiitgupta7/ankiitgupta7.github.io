@@ -13,7 +13,7 @@ tags: [About, Work, Interests, Tools]
         <div class="profile-links" style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; background: #f9f9f9; display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center;">
           <a href="https://drive.google.com/file/d/1EfiqiEd5rr7nJvMWb7F0zn7Pw-CNKclH/view" target="_blank" style="text-decoration: none;"><b>Resume</b></a> •
           <a href="https://drive.google.com/file/d/1am4vLS0rRuE6yXU1o661U8A3MQw_BG9w/view" target="_blank" style="text-decoration: none;"><b>CV</b></a> •
-          <a href="https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en" target="_blank" style="text-decoration: none;"><b>Scholar</b></a> •
+          <a href="https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en" target="_blank" style="text-decoration: none;"><b>Google Scholar</b></a> •
           <a href="https://twitter.com/ankiitgupta7" target="_blank" style="text-decoration: none;"><b>Twitter</b></a> •
           <a href="https://www.linkedin.com/in/ankiitgupta7/" target="_blank" style="text-decoration: none;"><b>LinkedIn</b></a> •
           <a href="https://github.com/ankiitgupta7" target="_blank" style="text-decoration: none;"><b>GitHub</b></a> •
@@ -26,6 +26,7 @@ tags: [About, Work, Interests, Tools]
   </div>
 </div>
 
+<br>
 I am broadly interested in using evolutionary computation to build open-ended AI systems. I am deeply captivated by how evolution, as an algorithm, can lead to emergent complexity in both natural and artificially intelligent systems. Specifically, I draw inspiration from the open-ended nature of natural evolution, which in a single, ongoing run has generated all life forms on Earth, achieving astronomical complexity and the human-level intelligence we strive to replicate. I believe this open-ended franework is key to building AI systems capable of artificial general or even superhuman intelligence.
 
 Most recently, I have been working on an evolutionary algorithm to probe if some machine learning models can be tricked into making very confident but misleading predictions for image classification and the reasoning behind such occurences. In summer of 2024, I worked on an Auto-ML tool (TPOT2) optimizing ML pipelines using genetic programming.
