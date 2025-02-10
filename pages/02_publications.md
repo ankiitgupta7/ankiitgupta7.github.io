@@ -66,9 +66,32 @@ den content.
 <br>    
 **AI-Generated Paper-Discussion Podcast (by NotebookLM):**  
      <br>
-        
      <audio controls>
        <source src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/master/assets/audio/FedEx_Paper.wav" type="audio/wav">
+       Your browser does not support the audio element.
+     </audio>
+<br>  
+
+3. **Gupta, A.**, Lo, Y.-H., Cheng, T., & Tseng, P. (2024). The sustenance & retention of perspectival shape representations. *Consciousness and Cognition*, *126*, 103788.
+<br>  
+[DOI](hhttps://doi.org/10.1016/j.concog.2024.103788) | [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1053810024001557?via%3Dihub)
+<br>    
+**Abstract:** When we are presented with a coin rotated in depth, although we perceive its objective circular 
+shape, the original perspectival shape is nonetheless represented in the visual system. Here we 
+investigated the onset time and duration of such perspectival representation by systematically 
+manipulating stimuli presentation time vs. post-stimuli retention time. Participants performed a 
+speeded search task and had to find an oval target against a circle distractor that is either head-on 
+(i.e., perspectivally dissimilar) or rotated leftward/rightward (i.e., perspectivally similar). We 
+found that even when stimuli disappeared from view, participants still took more time in locating 
+the oval target, suggesting robust and persistent perspectival interference (Experiment 1). This 
+interference emerged as early as 100 ms (Experiment 2), and persisted for at least 1000 ms 
+(Experiment 3). Together, these results suggest a 100 ms formation time and possibly 1000 ms or 
+longer life span for perspectival representation. 
+<br>    
+**AI-Generated Paper-Discussion Podcast (by NotebookLM):**  
+     <br>
+     <audio controls>
+       <source src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/master/assets/audio/Perspectival Shape Representation.wav" type="audio/wav">
        Your browser does not support the audio element.
      </audio>
 ---
@@ -86,12 +109,7 @@ den content.
      <audio controls>
        <source src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/master/assets/audio/vervetSim.wav" type="audio/wav">
        Your browser does not support the audio element.
-     </audio> 
----
-
-## Journals (Under Review)
-
-1. **Gupta, A.**, Lo, Y.-H., Cheng, T., & Tseng, P. (2024). The sustenance & retention of perspectival shape representations. *Consciousness and Cognition*. Under review.   
+     </audio>  
 
 ---
 \
