@@ -47,7 +47,7 @@ After this, through another class project, I became interested in the vulnerabil
 
 ---
 
-*I am grateful to these institutions that I have been integral part in my research journey.*
+*I am grateful to these institutions wjich have been an integral part in my research journey.*
 
 ![](https://ankiitgupta7.github.io/assets/img/onsite/affiliations2024.png)
 
