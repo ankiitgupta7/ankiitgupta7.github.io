@@ -35,7 +35,7 @@ As part of my **PhD candidacy exam**, I presented before my qualification commit
 
 ## Research Journey
 ### Before PhD
-My research interests have developed through a range of research experiences since my undergraduate studies. It began with a summer research internship in Taipei in my third year of UG, where I worked on an experiment investigating **human unconscious perception** and its potential role in biased decision-making. The following summer, during an internship at Harvard, I worked on an **agent-based simulation** studying **evolutionary origins of altruism**. For my thesis project at IIT, I worked on a simulation platform incorporating a **multi-agent system** of **Braitenberg Vehicles**, leading to **emergent swarm behaviors** under different wiring configurations. In the summer between graduating from IIT and starting my MS in Taipei—and again the following summer—I was involved in developing an **agent-based simulation** platform for studying potential **evolutionary origins of language** as part of the **Google Summer of Code** at **Red Hen Lab**.
+My research interests have developed through a range of research experiences since my undergraduate studies. It began with a summer research internship in Taipei in my third year of UG, where I worked on an experiment investigating **human unconscious perception** and its potential role in biased decision-making. The following summer, during an internship at **Harvard**, I worked on an **agent-based simulation** studying **evolutionary origins of altruism**. For my thesis project at IIT, I worked on a simulation platform incorporating a **multi-agent system** of **Braitenberg Vehicles**, leading to **emergent swarm behaviors** under different wiring configurations. In the summer between graduating from IIT and starting my MS in Taipei—and again the following summer—I was involved in developing an **agent-based simulation** platform for studying potential **evolutionary origins of language** as part of the **Google Summer of Code** at **Red Hen Lab**.
 
 ### First Year
 As I began my PhD with an interest in applying **evolutionary algorithms** to **machine intelligence**, I started with a simple class project exploring evolved wiring configurations in **Braitenberg Vehicles** selected for desired behavior. This provided an initial hands-on introduction to evolving agent behaviors. Towards the end of that semester, I attended an MSU talk by a Google DeepMind researcher on model discovery from scratch (<a href="https://research.google/blog/automl-zero-evolving-code-that-learns/" target="_blank"> AutoML-Zero</a>), which sparked my interest in **evolution-inspired machine learning**. Wanting to further explore this direction, I spent the following summer at an AI research lab at **Cedars-Sinai** in LA, working on **TPOT2**, an **AutoML** tool optimizing ML pipelines through **genetic programming**. 
@@ -47,13 +47,17 @@ After this, through another class project, I became interested in the vulnerabil
 
 ---
 
-*I am grateful for the guidance and support of people in the picture below - my advisors, mentors, supervisors, and course instructors - on my academic journey until starting my current doctoral degree.*
-
-![](https://ankiitgupta7.github.io/assets/img/onsite/mentors.png)
-
----
-
-*Also, I am grateful to these institutions that I have been integral part in my research journey.*
+*I am grateful to these institutions that I have been integral part in my research journey.*
 
 ![](https://ankiitgupta7.github.io/assets/img/onsite/affiliations2024.png)
 
+---
+
+*Also, I am grateful for the guidance and support of people in the pictures below -\
+My labmates and my current advisor:*
+
+![](https://ankiitgupta7.github.io/assets/img/mygallery/lab_photo.jpg)
+
+*My previous advisors, mentors, supervisors, and course instructors - on my academic journey until starting my current doctoral degree:*
+
+![](https://ankiitgupta7.github.io/assets/img/onsite/mentors.png)
