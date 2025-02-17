@@ -12,6 +12,7 @@ tags: [publications, journal, conference]
 <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
 <b>1. Dvoretskii, S., Gong, Z., Gupta, A., Parent, J., & Alicea, B. (2022). Braitenberg vehicles as developmental neurosimulation. <i>Artificial Life (MIT Press)</i>, <i>28</i>(3), 369–395.</b> <a href="https://doi.org/10.1162/artl_a_00384">DOI,</a> <a href="https://scholar.google.com/scholar_url?url=https://direct.mit.edu/artl/article-pdf/28/3/369/2037990/artl_a_00384.pdf&hl=en&sa=T&oi=ucasa&ct=ucasa&ei=XBIoZ6wn8MjL1g_TwsrxBQ&scisig=AFWwaeYSNXGh0U3HIMDxv6Cul-zc">PDF</a>
   <br>
+  <br>
 
   <img src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/refs/heads/master/assets/img/pubicationImages/BV.gif" alt="Braitenberg vehicles" style="width: 100%;">
   <br>
@@ -29,6 +30,7 @@ tags: [publications, journal, conference]
 <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
 <b>2. Ke, S.-C., Gupta, A., Lo, Y.-H., Ting, C.-C., & Tseng, P. (2023). The hidden arrow in the FedEx logo: Do we really unconsciously “see” it? <i>Cognitive Research: Principles and Implications (Springer International Publishing)</i>, <i>8</i>(1), 40.</b> <a href="https://doi.org/10.1186/s41235-023-00494-x">DOI,</a> <a href="https://cognitiveresearchjournal.springeropen.com/counter/pdf/10.1186/s41235-023-00494-x.pdf">PDF</a>
   <br>
+  <br>
 
   <img src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/refs/heads/master/assets/img/pubicationImages/FedEx.jpg" alt="FedEx logo" style="width: 100%;">
   <br>
@@ -45,6 +47,7 @@ tags: [publications, journal, conference]
 
 <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
 <b>3. Gupta, A., Lo, Y.-H., Cheng, T., & Tseng, P. (2024). The sustenance & retention of perspectival shape representations. <i>Consciousness and Cognition</i>, <i>126</i>, 103788.</b> <a href="https://doi.org/10.1016/j.concog.2024.103788">DOI,</a> <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053810024001557?via%3Dihub">PDF</a>
+  <br>
   <br>
 
   <img src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/refs/heads/master/assets/img/pubicationImages/PS6.png" alt="Perspectival shape" style="width: 100%;">
@@ -65,7 +68,7 @@ tags: [publications, journal, conference]
 <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
 <b>4. Gupta, A., & Steen, F. (2024). Simulating representational communication in vervet monkeys using agent-based simulation. In <i>Proceedings of the 15th International Conference on the Evolution of Language</i> (pp. 229–231). Max Planck Institute for Psycholinguistics.</b> <a href="https://doi.org/10.17617/2.3587960">DOI,</a> <a href="https://pure.mpg.de/rest/items/item_3587960_5/component/file_3600212/content">PDF</a>
   <br>
-
+  <br>
   <img src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/refs/heads/master/assets/img/pubicationImages/EvoLang.png" alt="EvoLang" style="width: 100%;">
   <br>
   <br>
