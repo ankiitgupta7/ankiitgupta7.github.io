@@ -53,11 +53,11 @@ After this, through another class project, I became interested in the vulnerabil
 
 ---
 
-*Also, I am grateful for the guidance and support of people in the pictures below -\
-My labmates and my current advisor:*
+<i>Also, I am grateful for the guidance and support of people in the pictures below. </i>
+<center><i>My labmates and my current advisor:</i></center>
 
 ![](https://ankiitgupta7.github.io/assets/img/mygallery/lab_photo.jpg)
 
-*My previous advisors, mentors, supervisors, and course instructors - on my academic journey until starting my current doctoral degree:*
+<center><i>My previous advisors, mentors, supervisors, and course instructors during my research journey until starting my current doctoral degree:</i></center>
 
 ![](https://ankiitgupta7.github.io/assets/img/onsite/mentors.png)
