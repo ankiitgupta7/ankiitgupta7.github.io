@@ -7,12 +7,13 @@ permalink: /gallery/
 gallery_path: "assets/img/mygallery"
 tags: [Photos, Memoirs]
 ---
-I come from a remote village, called Tekuridih, in Jaunpur district of Uttar Pradesh in India. I moved to Calcutta during my high school to prepare better for the IIT-JEE exam. The inspiration to go to IIT came from my elder brother who graduated from IIT-BHU when I entered IIT-KGP.
+I come from a remote village, Tekuridih, in Jaunpur district, Uttar Pradesh, India. I moved to Calcutta during high school to better prepare for the IIT-JEE exam. The inspiration to go to IIT came from my elder brother, who graduated from IIT-BHU just as I entered IIT-KGP.
 
-I like to play outdoor sports though the pandemic turned me into a mild chess addict. I am an average player of Badminton, below average player of Tennis but a decent swimmer. Recently, I have started showing control in Ping-Pong too. Sometime I think if overthinking was a sport, I would definitely be a pro there. 
+I enjoy playing outdoor sports, though the pandemic turned me into a mild chess addict. I am an average badminton player, a below-average tennis player, but a decent swimmer. Lately, I have even started showing some control in ping-pong.
 
-I also enjoy writing poetry, mostly lingering somewhere between melancholy and hope. I love deep philosophical discussions on anything related to how human beings and the universe work and interact. Apart from natutal fondness for Cricket, I have been a regular follower of Tennis and Badminton. And talking about my idols, I take inspiration from Sundar Pichai [Google CEO / IIT KGP Alumni], Abhijit Banerjee [Indian-American Nobel Laureate] and Rafael Nadal [Tennis Player], given their background.
+I also enjoy writing poetry, mostly lingering somewhere between melancholy and hope. I love deep philosophical discussions about how human beings and the universe work and interact. Apart from a natural fondness for cricket, I have been a regular follower of tennis and badminton.
 
+As for those who inspire me, I take inspiration from Sundar Pichai (Google CEO and fellow IIT-KGP alumnus), Abhijit Banerjee (Indian-American Nobel Laureate), and Rafael Nadal—not just for their achievements, but for the journeys that shaped them.
 Here are some pictures, that explain the above.
 
 {% include gallery.html gallery_path=page.gallery_path %}
