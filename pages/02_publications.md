@@ -3,7 +3,7 @@ layout: page
 title: Publications
 subtitle: Journals and Conference Proceedings
 permalink: /publications/
-feature-img: "assets/img/onsite/forPubli.png"
+feature-img: "assets/img/msu/Campus Tower.jpg"
 tags: [publications, journal, conference]
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: About Me
 subtitle: Research Interest and Journey
 permalink: /about/
-feature-img: "assets/img/onsite/about.png"
+feature-img: "assets/img/msu/North Campus.jpg"
 tags: [About, Work, Interests]
 ---
 <div class="about-container" style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start;">
