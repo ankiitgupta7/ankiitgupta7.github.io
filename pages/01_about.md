@@ -50,17 +50,17 @@ After this, through another class project, I became interested in the vulnerabil
 
 ---
 
-*I am grateful to these institutions which have been an integral part in my research journey.*
-
-![](https://ankiitgupta7.github.io/assets/img/onsite/affiliations2024.png)
+<div style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; background: #f9f9f9; text-align: center;">
+  <p><i>I am grateful to these institutions which have been an integral part in my research journey.</i></p>
+  <img src="https://ankiitgupta7.github.io/assets/img/onsite/affiliations2024.png" alt="Affiliations">
+</div>
 
 ---
 
-<i>Also, I am grateful for the guidance and support of people in the pictures below. </i>
-<center><i>My labmates and my current advisor:</i></center>
-
-![](https://ankiitgupta7.github.io/assets/img/mygallery/lab_photo.jpg)
-
-<center><i>My previous advisors, mentors, supervisors, and course instructors during my research journey until starting my current doctoral degree:</i></center>
-
-![](https://ankiitgupta7.github.io/assets/img/onsite/mentors.png)
+<div style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; background: #f9f9f9; text-align: center;">
+  <p><i>Also, I am grateful for the guidance and support of people in the pictures below.</i></p>
+  <p><i>My labmates and my current advisor:</i></p>
+  <img src="https://ankiitgupta7.github.io/assets/img/mygallery/lab_photo.jpg" alt="Lab Photo">
+  <p><i>My previous advisors, mentors, supervisors, and course instructors during my research journey until starting my current doctoral degree:</i></p>
+  <img src="https://ankiitgupta7.github.io/assets/img/onsite/mentors.png" alt="Mentors">
+</div>
