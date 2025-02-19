@@ -61,6 +61,8 @@ After this, through another class project, I became interested in the vulnerabil
   <p><i>Also, I am grateful for the guidance and support of people in the pictures below.</i></p>
   <p><i>My labmates and my current advisor:</i></p>
   <img src="https://ankiitgupta7.github.io/assets/img/mygallery/lab_photo.jpg" alt="Lab Photo">
+  <br>
+  <br>
   <p><i>My previous advisors, mentors, supervisors, and course instructors during my research journey until starting my current doctoral degree:</i></p>
   <img src="https://ankiitgupta7.github.io/assets/img/onsite/mentors.png" alt="Mentors">
 </div>
