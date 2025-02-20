@@ -14,6 +14,7 @@ I enjoy playing outdoor sports, though the pandemic turned me into a mild chess 
 I also enjoy writing poetry, mostly lingering somewhere between melancholy and hope (<a href="https://ankiitgupta7.github.io/" target="_blank">read here</a>). I love deep philosophical discussions about how human beings and the universe work and interact. Apart from a natural fondness for cricket, I have been a regular follower of tennis and badminton.
 
 As for those who inspire me, I take inspiration from Sundar Pichai (Google CEO and fellow IIT-KGP alumnus), Abhijit Banerjee (Indian-American Nobel Laureate), and Rafael Nadal—not just for their achievements, but for the journeys that shaped them.
+
 Here are some pictures, that explain the above.
 
 {% include gallery.html gallery_path=page.gallery_path %}
