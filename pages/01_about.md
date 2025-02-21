@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Research Interest and Journey
+subtitle: Research Interests and Journey
 permalink: /about/
 feature-img: "assets/img/msu/Campus.jpg"
 tags: [About, Work, Interests]
