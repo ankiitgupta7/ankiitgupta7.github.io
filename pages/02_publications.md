@@ -97,9 +97,9 @@ tags: [publications, journal, conference]
       <source src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/master/assets/audio/vervetSim.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
+    </div>
   </div>
 </div>
-
 ---
 
 For more information, please refer to my [Google Scholar](https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en).
