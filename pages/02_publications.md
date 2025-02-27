@@ -33,6 +33,7 @@ tags: [publications, journal, conference]
 
 </div>
 
+<br>
 <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
 <b>2. Ke, S.-C., Gupta, A., Lo, Y.-H., Ting, C.-C., & Tseng, P. (2023). The hidden arrow in the FedEx logo: Do we really unconsciously “see” it? <i>Cognitive Research: Principles and Implications (Springer International Publishing)</i>, <i>8</i>(1), 40.</b> <a href="https://doi.org/10.1186/s41235-023-00494-x">DOI,</a> <a href="https://cognitiveresearchjournal.springeropen.com/counter/pdf/10.1186/s41235-023-00494-x.pdf">PDF</a>
   <br>
@@ -55,6 +56,7 @@ tags: [publications, journal, conference]
 </div>
 </div>
 
+<br>
 <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
 <b>3. Gupta, A., Lo, Y.-H., Cheng, T., & Tseng, P. (2024). The sustenance & retention of perspectival shape representations. <i>Consciousness and Cognition</i>, <i>126</i>, 103788.</b> <a href="https://doi.org/10.1016/j.concog.2024.103788">DOI,</a> <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053810024001557?via%3Dihub">PDF</a>
   <br>
