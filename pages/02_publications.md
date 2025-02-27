@@ -100,7 +100,7 @@ tags: [publications, journal, conference]
 ## Conference Proceedings
 
 <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
-<b>4. Gupta, A., & Steen, F. (2024). Simulating representational communication in vervet monkeys using agent-based simulation. In <i>Proceedings of the 15th International Conference on the Evolution of Language</i> (pp. 229–231). Max Planck Institute for Psycholinguistics.</b> <a href="https://doi.org/10.17617/2.3587960">DOI,</a> <a href="https://pure.mpg.de/rest/items/item_3587960_5/component/file_3600212/content">PDF</a>
+<b>1. Gupta, A., & Steen, F. (2024). Simulating representational communication in vervet monkeys using agent-based simulation. In <i>Proceedings of the 15th International Conference on the Evolution of Language</i> (pp. 229–231). Max Planck Institute for Psycholinguistics.</b> <a href="https://doi.org/10.17617/2.3587960">DOI,</a> <a href="https://pure.mpg.de/rest/items/item_3587960_5/component/file_3600212/content">PDF</a>
   <br>
   <br>
   <img src="https://raw.githubusercontent.com/ankiitgupta7/ankiitgupta7.github.io/refs/heads/master/assets/img/pubicationImages/vervetSim.gif" alt="EvoLang" style="width: 100%;">
