@@ -6,6 +6,21 @@ permalink: /publications/
 feature-img: "assets/img/msu/Campus Tower.jpg"
 tags: [publications, journal, conference]
 ---
+## Under Review
+
+
+<div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
+<b>1. At ICML 2025:</b> Work on evolving adversarial images with a genetic algorithm to evaluate degree of model <i>foolability</i>; with my advisor at MSU.
+  <br>
+
+<b>2. At GECCO 2025:</b> Work on an Auto-ML tool (<i>TPOT2</i>) optimizing ML pipelines using genetic programming; from my summer internship at Cedars-Sinai, LA.
+  <br>
+
+<i> More details will be posted after the Author Notification Deadline for these conferences.</i>
+
+
+</div>
+
 
 ## Journal Publications
 
@@ -103,6 +118,7 @@ tags: [publications, journal, conference]
     </div>
   </div>
 </div>
+
 ---
 
 For more information, please refer to my [Google Scholar](https://scholar.google.com/citations?user=FTCbGjoAAAAJ&hl=en).
