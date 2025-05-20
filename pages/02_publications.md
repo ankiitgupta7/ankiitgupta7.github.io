@@ -10,15 +10,11 @@ tags: [publications, journal, conference]
 
 
 <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
-<b>1. At ICML 2025:</b> Work on evolving adversarial images with a genetic algorithm to evaluate degree of model <i>foolability</i>; with my advisor at MSU.
-  <br>
 
-<b>2. At GECCO 2025:</b> Work on an Auto-ML tool (<i>TPOT2</i>) optimizing ML pipelines using genetic programming; from my research internship in summer 2024 at Cedars-Sinai, LA.
+<b>At GECCO 2025:</b> Work on an Auto-ML tool (<i>TPOT2</i>) optimizing ML pipelines using genetic programming; from my research internship in summer 2024 at Cedars-Sinai, LA. *[Accepted]*
   <br>
 
 <br>
-<i> More details will be posted after the Author Notification Deadline for these conferences.</i>
-
 
 </div>
 
