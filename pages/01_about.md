@@ -3,12 +3,14 @@ layout: page
 title: About Me 
 subtitle: and the journey 
 permalink: /about/ 
-feature-img: "assets/img/msu/Campus.jpg" 
-tags: [About, Work, Interests] 
+feature-img: "assets/img/posts/nehru museum.jpg"
+gallery_path: "assets/img/mygallery"
+tags: [Photos, Memoirs, About]
 ---
+<div class="about-container"
+     style="display: flex; gap: 2rem; max-width: 1100px; margin: 0 auto; align-items: center; flex-wrap: wrap;">
 
-<div class="about-container">
-  <div class="about-content">
+  <div class="about-content" style="flex: 1; min-width: 300px;">
     <p>Hello there!</p>
     <p>
       I am Ankit Gupta, a PhD student in Computer Science and Engineering at
@@ -30,15 +32,17 @@ tags: [About, Work, Interests]
       <a href="https://sites.google.com/msu.edu/guptaa23" target="_blank">here</a>.
     </p>
   </div>
-
-  <div class="profile-image">
+  <div class="profile-image" style="flex: 1; min-width: 300px;">
     <img
       src="https://ankiitgupta7.github.io/assets/img/mygallery/gupta%20in%20chicago.jpg"
       alt="Ankit Gupta"
+      style="width: 100%; height: auto; border-radius: 8px;"
     />
   </div>
 </div>
 
+<br>
+<br>
 
 I come from a remote village, called Tekuridih, in Jaunpur district, Uttar Pradesh, India. I moved to Calcutta during high school to better prepare for the IIT-JEE exam. The inspiration to go to IIT came from my elder brother, who graduated from IIT-BHU just as I entered IIT-KGP.
 
