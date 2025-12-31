@@ -1,5 +1,6 @@
 --- 
-layout: page title: About Me 
+layout: page 
+title: About Me 
 subtitle: and the journey 
 permalink: /about/ 
 feature-img: "assets/img/msu/Campus.jpg" 
