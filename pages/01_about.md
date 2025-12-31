@@ -1,3 +1,11 @@
+--- 
+layout: page title: About Me 
+subtitle: and the journey 
+permalink: /about/ 
+feature-img: "assets/img/msu/Campus.jpg" 
+tags: [About, Work, Interests] 
+---
+
 <div class="about-container">
   <div class="about-content">
     <p>Hello there!</p>
