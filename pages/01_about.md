@@ -28,7 +28,7 @@ tags: [Photos, Memoirs, About]
       graduating in May 2023.
     </p>
     <p>
-      For my academic website, please click
+      For my academic website, please visit
       <a href="https://sites.google.com/msu.edu/guptaa23" target="_blank">here</a>.
     </p>
   </div>
