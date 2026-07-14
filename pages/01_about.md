@@ -44,7 +44,7 @@ tags: [Photos, Memoirs, About]
 <br>
 <br>
 
-I come from a remote village, called Tekuridih, in Jaunpur district, Uttar Pradesh, India. I moved to Calcutta during high school to better prepare for the IIT-JEE exam. The inspiration to go to IIT came from my elder brother, who graduated from IIT-BHU just as I entered IIT-KGP.
+I come from a remote village, called Tekuridih where I had my primary elementary school education, in Jaunpur district of Uttar Pradesh, India. I moved to Calcutta during high school to better prepare for the IIT-JEE exam, which led me to Kharagpur for my undergrad studies. After this I have been to Taiepi City for further studies. I live in East Lansing (Michigan, US) these days.
 
 I enjoy playing outdoor sports, though the pandemic turned me into a mild chess addict. I am an average badminton player, a below-average tennis player, but a decent swimmer. Lately, I have even started showing some control in ping-pong.
 
